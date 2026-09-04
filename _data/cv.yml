@@ -1,0 +1,166 @@
+cv:
+  name: Sukanta Basu
+  label: Professor of Empire Innovation, University at Albany (SUNY)
+  email: sbasu@albany.edu
+  location: Albany, NY, USA
+  image: ""
+  summary: >
+    Atmospheric turbulence across scales — boundary-layer meteorology, atmospheric
+    optics, large-eddy and mesoscale simulation, numerical weather prediction, wind
+    energy, and machine learning for the Earth sciences.
+
+  social_networks:
+    - network: GitHub
+      username: Sukantabasu
+
+  sections:
+    Education:
+      - institution: University of Minnesota
+        location: Minneapolis, MN, USA
+        url: https://cse.umn.edu/cege
+        area: Civil Engineering
+        studyType: Ph.D.
+        start_date: 2000
+        end_date: 2004
+        highlights:
+          - "Dissertation: Large-eddy simulation of stably stratified atmospheric boundary layer turbulence — a scale-dependent dynamic modeling approach."
+          - "Best Ph.D. Dissertation in Civil Engineering (2005)."
+
+      - institution: University of Windsor
+        location: Windsor, ON, Canada
+        area: Environmental Engineering
+        studyType: M.A.Sc.
+        start_date: 1999
+        end_date: 2000
+
+      - institution: Indian Institute of Technology (IIT) Kharagpur
+        location: Kharagpur, India
+        area: Civil Engineering
+        studyType: B.Tech. (Honors)
+        start_date: 1994
+        end_date: 1998
+
+    Experience:
+      - company: University at Albany (SUNY)
+        position: Professor of Empire Innovation
+        location: Albany, NY, USA
+        start_date: 2023-04-01
+        end_date: present
+        summary: Atmospheric Sciences Research Center; Department of Environmental and Sustainable Engineering (tenured Full Professor).
+
+      - company: Delft University of Technology
+        position: Associate Professor (tenured)
+        location: Delft, The Netherlands
+        start_date: 2016-09-01
+        end_date: 2023-03-31
+        summary: Faculty of Civil Engineering and Geosciences.
+
+      - company: North Carolina State University
+        position: Associate Professor (tenured 2014)
+        location: Raleigh, NC, USA
+        start_date: 2010-08-01
+        end_date: 2016-07-31
+        summary: Department of Marine, Earth, and Atmospheric Sciences.
+
+      - company: Texas Tech University
+        position: Assistant Professor
+        location: Lubbock, TX, USA
+        start_date: 2005-09-01
+        end_date: 2010-08-31
+        summary: Atmospheric Science Group, Department of Geosciences; Wind Science and Engineering Research Center.
+
+      - company: University of Minnesota
+        position: Post-doctoral Research Associate
+        location: Minneapolis, MN, USA
+        start_date: 2005-01-01
+        end_date: 2005-06-30
+        summary: St. Anthony Falls Laboratory.
+
+    Visiting Positions:
+      - company: Università degli Studi di Cagliari
+        position: Visiting Professor
+        location: Cagliari, Italy
+        start_date: 2019-06-01
+        end_date: 2019-06-15
+      - company: North Carolina State University
+        position: Adjunct Associate Professor
+        location: Raleigh, NC, USA
+        start_date: 2016-08-01
+        end_date: 2018-09-30
+      - company: Wageningen University
+        position: Visiting Scientist
+        location: Wageningen, The Netherlands
+        start_date: 2008-05-01
+        end_date: 2008-06-30
+
+    Honors and Awards:
+      - title: Editor's Pick, Applied Optics
+        date: 2026
+      - title: Third place, NASA Airathon (trace-gas track)
+        date: 2022
+      - title: Editor's Pick, Optics Letters
+        date: 2023
+      - title: First place, Shell.ai Hackathon for sustainable and affordable energy
+        date: 2021
+      - title: Best Teacher Award (rank #1), TU Delft — Geoscience & Remote Sensing and Environmental Engineering tracks
+        date: 2018-2019
+      - title: Winner, Offshore Wind Accelerator (OWA) wake-modelling challenge
+        date: 2019
+      - title: CAREER Award, U.S. National Science Foundation
+        date: 2008
+      - title: Best Ph.D. Dissertation in Civil Engineering, University of Minnesota
+        date: 2005
+      - title: NOAA Climate and Global Change Postdoctoral Fellowship (declined)
+        date: 2005
+
+    Selected Grants:
+      - name: Assessing climate exposure and financial impacts at the census-tract level in New York State
+        summary: "New York State Department of Financial Services. PI. $1,611,585 (2025–2028)."
+      - name: Deep learning-based nowcasting of damaging winds (Phases I & II)
+        summary: "NSF IUCRC (WISER). PI. $100,000 (2024–2026)."
+      - name: Atmospheric propagation basic research
+        summary: "Optonica LLC / DARPA Joint Directed Energy Transition Office. PI. $89,418 (2024–2025)."
+      - name: EU-SCORES — European Scalable and Complementary Offshore Renewable Energy Sources
+        summary: "Horizon 2020, European Green Deal. Co-PI (TU Delft). €448,000 of €34M (2021–2025)."
+      - name: Optical wireless super highways
+        summary: "Dutch Research Council (NWO). Co-PI. €250,000 of €5.1M (2021–2026)."
+      - name: WINS50 — Winds of the North Sea in 2050
+        summary: "TKI Wind op Zee. Co-PI. €462,869 (TU Delft part, 2020–2022)."
+      - name: Towards better representation of nocturnal low-level jets in large-eddy and mesoscale models
+        summary: "NSF CAREER Award. PI. $505,060 (2008–2014)."
+      - name: Strongly stratified atmospheric boundary-layer processes over the Antarctic Plateau
+        summary: "NSF Polar Science Program. PI. $173,000 (2006–2010)."
+
+    Professional Service:
+      - name: Associate Editor
+        summary: "Journal of Geophysical Research – Atmospheres (2023–present); Wind Energy Science (2022–2026)."
+      - name: Editorial Boards
+        summary: "Boundary-Layer Meteorology; Wind Energy; Environmental Fluid Mechanics; Frontiers in Built Environment."
+      - name: Committees & panels
+        summary: "NATO SET-ET-140 and SET-304 (atmospheric effects on electro-optical systems); IEA Wind Task 51 (forecasting for the weather-driven energy system); review panels for NSF, the Academy of Finland (chair, 2021), NSERC, and NWO."
+      - name: Conference organization
+        summary: "Organizing Committee, NCAR ASP Summer Colloquium on the Atmospheric Boundary Layer (2023); Theme Lead (Wind & Wind Farms), TORQUE 2020 & 2022; Program Chair, OSA pcAOP (2019–2021); Chair, 3rd GABLS LES Intercomparison (2008–2010)."
+
+    Teaching:
+      - name: University at Albany
+        summary: "ESE 332 — Air Quality Modeling."
+      - name: TU Delft
+        summary: "CIE 4605 — Atmospheric Turbulence; CIE 4707 — Air Quality; AESB 2121 — Signals and Systems with Python."
+      - name: North Carolina State University
+        summary: "Micrometeorology; Fluid Physics; Air Pollution Meteorology; Wind Power Meteorology; Planetary Boundary Layer."
+      - name: Texas Tech University
+        summary: "Introduction to Atmospheric Science; Wind Power Meteorology; Atmospheric Dispersion Modeling; Boundary-layer Meteorology; Regional-scale Numerical Weather Prediction."
+
+    Machine Learning Competitions:
+      - name: Shell.ai Hackathon — fuel blend properties prediction
+        summary: "Selected for Level 2 (one of ~25 of ~7000 participants), 2025."
+      - name: IEEE Hybrid Energy Forecasting and Trading Competition
+        summary: "Ranked 6th overall, 2024."
+      - name: Solafune — aerosol optical depth estimation
+        summary: "Ranked 25th of 307 (bronze), 2024."
+      - name: HEROx American-Made Net Load Forecasting Prize
+        summary: "Ranked 9th overall; 1st for Amity, OR, 2023."
+      - name: NASA Airathon — predict air quality
+        summary: "3rd (trace-gas track), 6th (particulate track), 2022."
+      - name: DrivenData — tropical storm intensity prediction
+        summary: "Ranked 32nd of 733, 2020."

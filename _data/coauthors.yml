@@ -1,0 +1,75 @@
+# Current and former members of the research group.
+# Their names are highlighted in the automatically generated publications list.
+# Key = lowercased last name; `firstname` lists every initial/spelling used in the .bib.
+
+"baki":
+  - firstname: ["Harish", "H", "H."]
+
+"pierzyna":
+  - firstname: ["Maximilian", "Max", "M", "M."]
+    url: https://mpierzyna.github.io/
+
+"kartal":
+  - firstname: ["Serkan", "S", "S."]
+
+"cheneka":
+  - firstname: ["Bedassa", "Bedassa R", "B R", "B. R."]
+
+"li":
+  - firstname: ["Bowen", "B", "B."]
+
+"dai":
+  - firstname: ["Yi", "Y", "Y."]
+
+"he":
+  - firstname: ["Ping", "P", "P.", "P H", "P. H."]
+    url: https://www.aere.iastate.edu/phe/
+
+"demarco":
+  - firstname: ["Adam", "Adam W", "A W", "A. W."]
+
+"wang":
+  - firstname: ["Yao", "Y", "Y."]
+
+"nunalee":
+  - firstname: ["Christopher", "Christopher G", "Chris", "C G", "C. G."]
+
+"kiliyanpilakkil":
+  - firstname: ["Velayudhan Praju", "V P", "V. P."]
+
+"hawbecker":
+  - firstname: ["Patrick", "Patrick H", "P H", "P. H."]
+
+"storm":
+  - firstname: ["Brandon", "B", "B."]
+
+"anderson":
+  - firstname: ["William", "William C", "W C", "W. C."]
+    url: https://mece.utdallas.edu/people/william-anderson/
+
+"ruiz-columbié":
+  - firstname: ["Arquímedes", "A", "A."]
+
+"phillipson":
+  - firstname: ["Julie", "Julie A", "J A", "J. A."]
+
+"harshan":
+  - firstname: ["Suraj", "S", "S."]
+
+"richardson":
+  - firstname: ["Heather", "H", "H."]
+
+"annis":
+  - firstname: ["Sophie", "S", "S."]
+
+"singh":
+  - firstname: ["Jaya", "J", "J."]
+
+"dwivedi":
+  - firstname: ["Vikas", "V", "V."]
+
+"tewari":
+  - firstname: ["Mukul", "M", "M."]
+
+"yu":
+  - firstname: ["Chau Lam", "Chris", "C L", "C. L."]

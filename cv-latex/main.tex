@@ -1,0 +1,90 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=apa,url=true,maxbibnames=99,sorting=ydnt,dashed=false,citestyle=numeric]{biblatex}
+\bibliography{papers}
+\usepackage{etaremune}
+\usepackage{enumitem}
+\renewcommand{\labelenumi}{[\theenumi]}
+% \usepackage{hyperref}
+\usepackage{ragged2e}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{MidnightBlue}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+
+%---Use the following to make the publication numbering in reverse chronological order--- (Sukanta)
+% Count total number of entries in each refsection
+\AtDataInput{%
+  \csnumgdef{entrycount:\therefsection}{%
+    \csuse{entrycount:\therefsection}+1}}
+
+% Print the labelnumber as the total number of entries in the
+% current refsection, minus the actual labelnumber, plus one
+\DeclareFieldFormat{labelnumber}{\mkbibdesc{#1}}    
+\newrobustcmd*{\mkbibdesc}[1]{%
+  \number\numexpr\csuse{entrycount:\therefsection}+1-#1\relax}
+%---Sukanta---
+
+\boldname{Basu}{S}{}
+
+\begin{document}
+
+% Heading
+% \headinginline{Sukanta Basu\\ \large 
+% Date of Birth: December 24, 1975\\
+% Citizenship: American}
+\headinginline{Sukanta Basu}
+{{\Large Professor of Empire Innovation}\\
+University at Albany\\ 
+Albany, USA\\
+Tel:  +1 518-350-3009\\
+E-mail: sbasu@albany.edu\\
+https://sites.google.com/view/sukantabasu/ 
+}
+
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+% Page One
+\import{sections/}{education.tex}
+\import{sections/}{experience.tex}
+\import{sections/}{visiting.tex}
+\import{sections/}{interests.tex}
+\import{sections/}{accomplishments.tex}
+\import{sections/}{AIML.tex}
+ \import{sections/}{professional.tex}
+\import{sections/}{reviews.tex}
+\import{sections/}{projects.tex}
+\import{sections/}{collaborators.tex}
+\import{sections/}{publications.tex}
+\import{sections/}{bookchapter.tex}
+\import{sections/}{proceedings.tex}
+\import{sections/}{invited_presentation.tex}
+\import{sections/}{teaching.tex} \import{sections/}{students.tex}
+\import{sections/}{affiliations.tex}
+\import{sections/}{outreach.tex}
+%\import{sections/}{conference_oral.tex}
+%\import{sections/}{conference_poster.tex}
+
+%\pagebreak
+
+% Page Two
+% \sidebyside
+%     {\import{sections/}{skills.tex}}
+%     {\import{sections/}{languages.tex}}
+
+
+
+\end{document}

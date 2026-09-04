@@ -1,0 +1,40 @@
+\nocite{*}
+\DeclareFieldFormat{labelnumberwidth}{\mkbibbrackets{#1}}
+
+\defbibenvironment{bibliography}
+  {\list
+     {\printtext[labelnumberwidth]{%
+      \printfield{labelprefix}%
+      \printfield{labelnumber}}}
+     {%\setlength{\labelwidth}{\labelnumberwidth}%
+      \setlength{\leftmargin}{\labelwidth}%
+      \setlength{\labelsep}{\biblabelsep}%
+      \addtolength{\leftmargin}{\labelsep}%
+      \setlength{\itemsep}{\bibitemsep}%
+      \setlength{\parsep}{\bibparsep}
+      }%
+      \renewcommand*{\makelabel}[1]{\hss##1}}
+  {\endlist}
+  {\item}
+
+%\clearpage
+\section*{Journal Publications}
+
+\noindent Google Scholar Citations: \url{https://scholar.google.com/citations?user=08bv9p8AAAAJ\&hl=en}
+
+\noindent Researchgate Page: \url{http://www.researchgate.net/profile/Sukanta\_Basu}
+
+\noindent ORCID: 0000-0002-0507-5349
+
+\noindent SCOPUS: 7403656752
+
+\noindent ResearcherID: F-9286-2011\\
+
+\noindent Graduate students and post-docs of my research group are indicated by * and $\dagger$, respectively. 
+
+\printbibliography[heading=none,type=article]
+% Can instead manually enter publications as shown:
+% \section{Publications}
+% \orderedouterlist{
+% \entry{S. Petridis, J. Shen, \textbf{D. Cetin} and M. Pantic, "Visual-Only Recognition of Normal, Whispered And Silent Speech", \textit{IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), April 2018}}
+% }
