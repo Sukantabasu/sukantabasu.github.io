@@ -24,7 +24,7 @@ von Kármán vortex streets. Part of NATO SET groups on atmospheric effects on e
 
 Scale-dependent dynamic subgrid-scale modeling, grid-resolution sensitivity in stable
 boundary layers, and LES intercomparison (chair of the 3rd GABLS LES intercomparison).
-We develop **[JAX-ALFA](/software/)**, an open-source JAX-based LES framework that runs on CPUs and GPUs.
+We develop **[JAX-ALFA](/jax-alfa/)**, an open-source JAX-based LES framework that runs on CPUs and GPUs.
 
 ## Mesoscale modeling & numerical weather prediction
 

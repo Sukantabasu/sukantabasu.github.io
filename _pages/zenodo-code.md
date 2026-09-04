@@ -22,4 +22,4 @@ Estimating refractive-index structure-parameter ($C_n^2$) profiles in the atmosp
 
 ## JAX-ALFA
 
-The group's actively developed LES framework has its own page — see [software &amp; data](/software/).
+The group's actively developed LES framework has its own page — see the [JAX-ALFA page](/jax-alfa/).

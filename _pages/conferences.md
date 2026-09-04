@@ -4,7 +4,7 @@ permalink: /conferences/
 title: conferences
 description: Conferences and workshops attended by the group, by year. Names indicate who attended.
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 ### 2026
