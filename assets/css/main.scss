@@ -87,11 +87,22 @@ html[data-theme="dark"] {
 }
 
 .sb-hero-byline {
-  margin: 0 0 0.25rem;
-  font-size: 0.95rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--global-text-color-light);
+  margin: 0 0 0.15rem;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--sb-midnight);
+}
+
+html[data-theme="dark"] .sb-hero-byline {
+  color: #e8eef4;
+}
+
+.sb-hero .post-title {
+  font-size: 1.7rem;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {
