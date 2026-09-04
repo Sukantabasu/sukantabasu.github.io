@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Peer-reviewed journal articles, book chapters, and selected conference proceedings, in reverse-chronological order. Group members are <strong>highlighted</strong>. Use the box below to filter by keyword, topic tag, or year.
-nav: true
+nav: false
 nav_order: 1
 ---
 

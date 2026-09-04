@@ -3,8 +3,7 @@ layout: page
 permalink: /software/
 title: software & data
 description: Open-source code and archived datasets from the group.
-nav: true
-nav_order: 6
+nav: false
 ---
 
 ## JAX-ALFA
@@ -25,22 +24,10 @@ repository and documentation.
 
 ---
 
-## Other code
+## Archived code and data on Zenodo
 
-**HybridWind** (MATLAB) — a hybrid profile–gradient approach for estimating surface fluxes.
-[Bitbucket](https://bitbucket.org/sukantabasu/hybridwind) · [Zenodo](https://zenodo.org/record/1998633).
-Reference: Basu (2018), *Boundary-Layer Meteorology* 170, 29–44.
-
-**Thorpe $C_n^2$** (MATLAB) — estimating refractive-index structure-parameter ($C_n^2$) profiles
-from a Thorpe-length-scale approach.
-[Bitbucket](https://bitbucket.org/sukantabasu/thorpe-cn2/) · [Zenodo](https://zenodo.org/record/1998475).
-Reference: Basu (2015), *Optics Letters* 40, 4130–4133.
-
----
-
-## Archived data & papers
-
-Many of the group's datasets and post-prints are archived on
-[Zenodo](https://zenodo.org/search?q=Sukanta%20Basu). See also
-[ORCID](https://orcid.org/0000-0002-0507-5349) and
-[Google Scholar](https://scholar.google.com/citations?user=08bv9p8AAAAJ) for the full record.
+- [Zenodo — code](/software/zenodo-code/) — HybridWind, Thorpe $C_n^2$, and other releases
+- [Zenodo — published papers](/software/zenodo-papers/) — data and figures accompanying individual papers
+- Everything: [Zenodo search](https://zenodo.org/search?q=Sukanta%20Basu) ·
+  [ORCID](https://orcid.org/0000-0002-0507-5349) ·
+  [Google Scholar](https://scholar.google.com/citations?user=08bv9p8AAAAJ)
