@@ -36,7 +36,7 @@ My group studies **atmospheric turbulence** across scales and the many places it
   <div><div class="num">80+</div><div class="lbl">Journal articles</div></div>
   <div><div class="num">25+</div><div class="lbl">Funded projects</div></div>
   <div><div class="num">40+</div><div class="lbl">Students &amp; postdocs</div></div>
-  <div><div class="num">13</div><div class="lbl">ML competitions</div></div>
+  <div><div class="num">15+</div><div class="lbl">ML competitions</div></div>
 </div>
 
 I lead the development of **[JAX-ALFA](/jax-alfa/)** (_Atmospheric LES For All_) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures.
