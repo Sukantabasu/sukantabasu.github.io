@@ -6,4 +6,4 @@ description: Scale-dependent dynamic subgrid-scale modeling, grid-resolution sen
 nav: false
 ---
 
-{% bibliography --query "@*[keywords=les]" %}
+{% bibliography -f les %}

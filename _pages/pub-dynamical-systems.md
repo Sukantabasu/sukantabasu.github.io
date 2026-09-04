@@ -6,4 +6,4 @@ description: Predictability, intermittency, chaoticity, extended self-similarity
 nav: false
 ---
 
-{% bibliography --query "@*[keywords=dynamics]" %}
+{% bibliography -f dynamics %}
