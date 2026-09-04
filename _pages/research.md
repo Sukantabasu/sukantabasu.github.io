@@ -43,19 +43,3 @@ _Grand Challenges in wind energy_ and IEA Wind Task 51.
 Parameterization, downscaling, nowcasting, and data-driven surrogates — gradient boosting,
 TabNet, convolutional autoencoders, neural operators, and foundation models — for optical
 turbulence, wind gusts, wind power, and air quality.
-
----
-
-## Competitions
-
-I regularly enter applied machine-learning and forecasting challenges, often with students
-([Kaggle profile](https://www.kaggle.com/sukantabasu)):
-
-- **Shell.ai Hackathon** — 1st place (solar radiation forecasting, 2021); Level-2 finalist (fuel-blend properties, 2025)
-- **NASA Airathon** — 3rd (trace gas) and 6th (particulates), 2022
-- **IEEE Hybrid Energy Forecasting and Trading Competition** — 6th overall, 2024
-- **HEROx American-Made Net Load Forecasting Prize** — 9th overall; 1st for Amity, OR, 2023
-- **NASA & DNV UQ Challenge** — 5th of 40, 2025
-- **Solafune** aerosol optical depth — 25th of 307 (bronze), 2024
-- **DrivenData** tropical storm intensity — 32nd of 733, 2020
-- **European Electricity Market (EEM) forecasting** — 3rd, 2020
