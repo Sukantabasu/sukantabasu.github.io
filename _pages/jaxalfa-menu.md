@@ -2,7 +2,7 @@
 layout: page
 title: JAX-ALFA
 nav: true
-nav_order: 4
+nav_order: 6
 dropdown: true
 children:
   - title: Overview

@@ -3,7 +3,7 @@ layout: page
 permalink: /grants/
 title: grants
 description: Sponsored research, most recent first. Amounts are the group's share unless noted otherwise.
-nav: false
+nav: true
 nav_order: 4
 ---
 

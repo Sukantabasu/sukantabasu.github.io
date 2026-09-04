@@ -11,6 +11,6 @@ wind-power forecasting competition. My team ranked **3rd**.
 Our approach: Basu, S., Watson, S. J., Lacoa Arends, E., and Cheneka, B. "Day-ahead wind power
 predictions at regional scales: post-processing operational weather forecasts with a hybrid
 neural network," IEEE, doi:10.1109/EEM49802.2020.9221979.
-Code and data: <https://zenodo.org/record/3987742>
+Code and data: <https://zenodo.org/record/3987742> · [3rd-prize certificate (PDF)](/assets/pdf/eem20-3rd-prize-certificate.pdf)
 
 <p><a href="/hackathons/">&larr; All hackathons</a></p>

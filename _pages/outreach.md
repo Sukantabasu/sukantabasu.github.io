@@ -3,13 +3,15 @@ layout: page
 permalink: /outreach/
 title: outreach
 description: Public engagement, media, and pre-college education.
-nav: false
-nav_order: 10
+nav: true
+nav_order: 8
 ---
 
 - Our collaborative work with the Dutch Olympic sailing team was covered by SURF —
-  ["On track for gold"](https://www.surf.nl/en/on-track-for-gold) — and by TU Delft's
-  _Delta_ ([in Dutch](https://www.delta.tudelft.nl/article/tu-onderzoeker-loodst-zeilers-teamnl-door-baai-van-tokio)).
+  ["On track for gold"](https://www.surf.nl/en/on-track-for-gold)
+  ([PDF, SURF Magazine, March 2020](/assets/pdf/surf-magazine-2020-teamnl-sailing.pdf)) — and by
+  TU Delft's _Delta_
+  ([in Dutch](https://www.delta.tudelft.nl/article/tu-onderzoeker-loodst-zeilers-teamnl-door-baai-van-tokio)).
   See also the [Olympics 2020](/olympics-2020/) forecast archive.
 - With the Institute for the Development and Enrichment of Advanced Learners (IDEAL) and
   Prof. Robert McComb (Economics & Geography) at Texas Tech University, I co-directed the

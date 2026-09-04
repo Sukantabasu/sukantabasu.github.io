@@ -36,6 +36,8 @@
   --sb-teal-deep: #1f5f6b;
   --sb-amber: #c77d1a;
   --sb-cloud: #fbfcfd;
+  --sb-hero-overlay-start: rgba(251, 252, 253, 0.58);
+  --sb-hero-overlay-mid: rgba(251, 252, 253, 0.88);
 
   --global-theme-color: var(--sb-teal);
   --global-hover-color: var(--sb-midnight);
@@ -50,12 +52,42 @@
   @media (prefers-color-scheme: dark) {
     --global-theme-color: #6fc3c9;
     --global-hover-color: #9ad8dd;
+    --sb-hero-overlay-start: rgba(10, 21, 36, 0.55);
+    --sb-hero-overlay-mid: rgba(10, 21, 36, 0.88);
   }
 }
 
 html[data-theme="dark"] {
   --global-theme-color: #6fc3c9;
   --global-hover-color: #9ad8dd;
+  --sb-hero-overlay-start: rgba(10, 21, 36, 0.55);
+  --sb-hero-overlay-mid: rgba(10, 21, 36, 0.88);
+}
+
+/* --- Home page hero: faint wind-bent-tree photograph ------------------- */
+/* (a real field photo — a hedge shaped by the prevailing wind — nods at */
+/* the site's subject without competing with the text on top of it)     */
+
+.post:has(.profile) > .post-header {
+  position: relative;
+  margin: -1rem -1rem 1.5rem;
+  padding: 2.75rem 1rem 1.75rem;
+  border-radius: 0 0 1rem 1rem;
+  background-image: linear-gradient(
+      180deg,
+      var(--sb-hero-overlay-start) 0%,
+      var(--sb-hero-overlay-mid) 65%,
+      var(--global-bg-color) 100%
+    ),
+    url("/assets/img/hero-bg.webp");
+  background-size: cover;
+  background-position: center 35%;
+}
+
+@media (min-width: 768px) {
+  .post:has(.profile) > .post-header {
+    padding: 3.5rem 1.5rem 2rem;
+  }
 }
 
 /* --- Typography ------------------------------------------------------------ */

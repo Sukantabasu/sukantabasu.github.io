@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor of Empire Innovation · <a href='https://www.albany.edu/asrc'>Atmospheric Sciences Research Center</a> and <a href='https://www.albany.edu/environmental-sustainable-engineering'>Environmental &amp; Sustainable Engineering</a>, University at Albany (SUNY)
+hero_title: Atmospheric Turbulence Research at UAlbany
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Professor of [Empire Innovation](https://www.suny.edu/impact/research/empire-innovation-program/) at the [University at Albany (SUNY)](https://www.albany.edu/), jointly appointed in the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc) and the Department of [Environmental and Sustainable Engineering](https://www.albany.edu/environmental-sustainable-engineering).
+I am a Professor of [Empire Innovation](https://www.suny.edu/eip/) at the [University at Albany (SUNY)](https://www.albany.edu/), jointly appointed in the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc) and the Department of [Environmental and Sustainable Engineering](https://www.albany.edu/environmental-sustainable-engineering).
 
 My group studies **atmospheric turbulence** across scales and the many places it matters: the structure of the atmospheric boundary layer, [optical turbulence](/research/) (\\(C_n^2\\)) and its effect on imaging and laser propagation, large-eddy and mesoscale simulation of the lower atmosphere, numerical weather prediction, and wind energy. Increasingly, this work is done with **machine learning** — parameterizations, downscaling, nowcasting, and data-driven surrogates for the Earth system.
 
