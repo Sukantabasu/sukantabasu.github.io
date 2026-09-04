@@ -39,7 +39,7 @@ My group studies **atmospheric turbulence** across scales and the many places it
   <div><div class="num">15+</div><div class="lbl">ML competitions</div></div>
 </div>
 
-I lead the development of **[JAX-ALFA](/jax-alfa/)** (_Atmospheric LES For All_) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures.
+I developed **[JAX-ALFA](/jax-alfa/)** (_Atmospheric LES For All_) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures.
 
 Before Albany I was a tenured Associate Professor at [Delft University of Technology](https://www.tudelft.nl/) (2016–2023), and before that on the faculty at [North Carolina State University](https://www.ncsu.edu/) and [Texas Tech University](https://www.ttu.edu/). I received my Ph.D. in Civil Engineering from the [University of Minnesota](https://twin-cities.umn.edu/) and hold an NSF CAREER award. I also [compete in](/hackathons/) applied-ML and forecasting challenges — Shell.ai, NASA Airathon, IEEE, HEROx, and others.
 

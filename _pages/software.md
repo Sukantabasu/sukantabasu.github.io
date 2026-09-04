@@ -6,7 +6,7 @@ description: Open-source code and archived datasets from the group.
 nav: false
 ---
 
-The group's actively developed LES framework, **JAX-ALFA**, has its own [page](/jax-alfa/).
+My actively developed LES framework, **JAX-ALFA**, has its own [page](/jax-alfa/).
 
 ## Other code
 

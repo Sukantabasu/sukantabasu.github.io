@@ -7,8 +7,7 @@ nav: false
 ---
 
 **JAX-ALFA** — _Atmospheric LES For All_ — is a [JAX](https://jax.readthedocs.io/)-based
-large-eddy simulation (LES) framework for atmospheric boundary-layer flows, developed in my
-group.
+large-eddy simulation (LES) framework for atmospheric boundary-layer flows, which I developed.
 
 ## Features
 
