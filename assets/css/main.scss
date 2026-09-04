@@ -64,15 +64,16 @@ html[data-theme="dark"] {
   --sb-hero-overlay-mid: rgba(10, 21, 36, 0.88);
 }
 
-/* --- Home page hero: faint wind-bent-tree photograph ------------------- */
-/* (a real field photo — a hedge shaped by the prevailing wind — nods at */
-/* the site's subject without competing with the text on top of it)     */
+/* --- Home page hero: faint turbulence-simulation background ------------ */
+/* Selector is an explicit class (set in _layouts/about.liquid), not :has(), */
+/* so it renders consistently on older/mobile browsers and in-app webviews. */
 
-.post:has(.profile) > .post-header {
+.post-header.sb-hero {
   position: relative;
   margin: -1rem -1rem 1.5rem;
   padding: 2.75rem 1rem 1.75rem;
   border-radius: 0 0 1rem 1rem;
+  background-color: var(--global-bg-color);
   background-image: linear-gradient(
       180deg,
       var(--sb-hero-overlay-start) 0%,
@@ -80,12 +81,21 @@ html[data-theme="dark"] {
       var(--global-bg-color) 100%
     ),
     url("/assets/img/hero-bg.webp");
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center 35%;
 }
 
+.sb-hero-byline {
+  margin: 0 0 0.25rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+}
+
 @media (min-width: 768px) {
-  .post:has(.profile) > .post-header {
+  .post-header.sb-hero {
     padding: 3.5rem 1.5rem 2rem;
   }
 }

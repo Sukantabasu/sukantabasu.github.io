@@ -9,7 +9,14 @@ layout: default
   upgrading al_folio_core.
 -->
 <div class="post">
-  <header class="post-header">
+  <header class="post-header{% if page.hero_title %} sb-hero{% endif %}">
+    {% if page.hero_title %}
+      <p class="sb-hero-byline">
+        <span class="font-weight-bold">{{ site.first_name }}</span>
+        {% if site.middle_name %}{{ site.middle_name }}{% endif %}
+        {{ site.last_name }}
+      </p>
+    {% endif %}
     <h1 class="post-title">
       {% if page.hero_title %}
         {{ page.hero_title }}
