@@ -13,7 +13,7 @@ the forecasts used a new-generation gray-zone planetary boundary-layer scheme at
 spacing.
 
 See TU Delft's story:
-[*The wind app which puts the wind in your sails*](https://www.tudelft.nl/en/ceg/research/stories-of-science/the-wind-app-which-puts-the-wind-in-your-sails).
+[_The wind app which puts the wind in your sails_](https://www.tudelft.nl/en/ceg/research/stories-of-science/the-wind-app-which-puts-the-wind-in-your-sails).
 
 The daily forecast charts are archived on the sub-pages. **To restore the plots, drop the
 original PNGs into `assets/img/olympics/` named `2021-07-15.png` … `2021-08-01.png`.**

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our *Applied Optics* paper on leveraging deep-learning foundation models for optical turbulence ($C_n^2$) estimation under data scarcity was selected as an **Editor's Pick**.
+Our _Applied Optics_ paper on leveraging deep-learning foundation models for optical turbulence ($C_n^2$) estimation under data scarcity was selected as an **Editor's Pick**.

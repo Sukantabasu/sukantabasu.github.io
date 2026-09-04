@@ -6,4 +6,4 @@ description: WRF and gray-zone modeling of low-level jets, coastal and offshore 
 nav: false
 ---
 
-{% bibliography --query "@*[keywords ~= mesoscale]" %}
+{% bibliography --query "@*[keywords=mesoscale]" %}

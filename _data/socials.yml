@@ -1,14 +1,13 @@
-# Social media / academic profile links shown under the about photo and in search.
-# Unknown keys are ignored by the theme, so it is safe to leave extras here.
+# Social / academic profile links, shown under the about photo and in search.
+# Keys must be ones the jekyll-socials plugin recognises
+# (see https://github.com/george-gca/jekyll-socials). Order here = display order.
 cv_pdf: /assets/pdf/cv.pdf
 email: sbasu@albany.edu
-orcid_id: 0000-0002-0507-5349
 scholar_userid: 08bv9p8AAAAJ
+orcid_id: 0000-0002-0507-5349
+research_gate_profile: Sukanta-Basu
 scopus_id: 7403656752
-researcherid: F-9286-2011
 publons_id: 2777086
-research_gate_profile: Sukanta-Basu # researchgate.net/profile/<this>
 github_username: Sukantabasu
 linkedin_username: sukanta-basu-6455344
 kaggle_id: sukantabasu
-rss_icon: false

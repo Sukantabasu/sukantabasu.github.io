@@ -6,4 +6,4 @@ description: Gradient boosting, TabNet, convolutional autoencoders, neural opera
 nav: false
 ---
 
-{% bibliography --query "@*[keywords ~= ml]" %}
+{% bibliography --query "@*[keywords=ml]" %}

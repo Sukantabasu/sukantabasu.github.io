@@ -6,4 +6,4 @@ description: Turbine-inflow generation and loads, thunderstorm downbursts, wind-
 nav: false
 ---
 
-{% bibliography --query "@*[keywords ~= windenergy]" %}
+{% bibliography --query "@*[keywords=windenergy]" %}

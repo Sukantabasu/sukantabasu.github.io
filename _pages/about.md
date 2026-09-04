@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ETEC 321</p>
+    <p>ETEC 321 &middot; +1 518-437-8633</p>
     <p>Atmospheric Sciences Research Center</p>
     <p>University at Albany, SUNY</p>
     <p>Albany, NY, USA</p>
@@ -32,7 +32,7 @@ I am a Professor of [Empire Innovation](https://www.suny.edu/impact/research/emp
 
 My group studies **atmospheric turbulence** across scales and the many places it matters: the structure of the atmospheric boundary layer, [optical turbulence](/research/) ($C_n^2$) and its effect on imaging and laser propagation, large-eddy and mesoscale simulation of the lower atmosphere, numerical weather prediction, and wind energy. Increasingly, this work is done with **machine learning** — parameterizations, downscaling, nowcasting, and data-driven surrogates for the Earth system.
 
-I lead the development of **[JAX-ALFA](https://github.com/Sukantabasu/jax-alfa)** (*Atmospheric LES For All*) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures. [Documentation](https://jax-alfa.readthedocs.io/) · [GitHub](https://github.com/Sukantabasu/jax-alfa).
+I lead the development of **[JAX-ALFA](https://github.com/Sukantabasu/jax-alfa)** (_Atmospheric LES For All_) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures. [Documentation](https://jax-alfa.readthedocs.io/) · [GitHub](https://github.com/Sukantabasu/jax-alfa).
 
 Before Albany I was a tenured Associate Professor at [Delft University of Technology](https://www.tudelft.nl/) (2016–2023), and before that on the faculty at [North Carolina State University](https://www.ncsu.edu/) and [Texas Tech University](https://www.ttu.edu/). I received my Ph.D. in Civil Engineering from the [University of Minnesota](https://twin-cities.umn.edu/) and hold an NSF CAREER award. I also [compete in](/research/#competitions) applied-ML and forecasting challenges — Shell.ai, NASA Airathon, IEEE, HEROx, and others.
 

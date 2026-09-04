@@ -6,4 +6,4 @@ description: Refractive-index and temperature structure parameters, optical prop
 nav: false
 ---
 
-{% bibliography --query "@*[keywords ~= optics]" %}
+{% bibliography --query "@*[keywords=optics]" %}

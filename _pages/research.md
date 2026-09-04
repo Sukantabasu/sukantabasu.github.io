@@ -36,7 +36,7 @@ resolution needed to represent optical turbulence.
 
 Inflow generation for turbine-load analysis, thunderstorm downbursts, wind-power ramps and
 Dunkelflaute events, offshore resource assessment, and forecasting. Contributor to the
-*Grand Challenges in wind energy* and IEA Wind Task 51.
+_Grand Challenges in wind energy_ and IEA Wind Task 51.
 
 ## Machine learning for the Earth sciences
 
