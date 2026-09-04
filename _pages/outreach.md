@@ -3,7 +3,7 @@ layout: page
 permalink: /outreach/
 title: outreach
 description: Public engagement, media, and pre-college education.
-nav: true
+nav: false
 nav_order: 10
 ---
 

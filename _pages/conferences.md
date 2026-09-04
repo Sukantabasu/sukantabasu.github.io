@@ -3,7 +3,7 @@ layout: page
 permalink: /conferences/
 title: conferences
 description: Conferences and workshops attended by the group, by year. Names indicate who attended.
-nav: true
+nav: false
 nav_order: 9
 ---
 

@@ -8,9 +8,9 @@ nav: false
 WRF near-surface wind-speed forecast for Enoshima / Tokyo Bay (grid size 600 m),
 initialised July 31, 2021.
 
-<!-- Original forecast plot pending: add /assets/img/olympics/2021-08-01.png -->
+<!-- Original forecast plot pending: add /assets/img/olympics/2021-07-31.png -->
 
-<img src="/assets/img/olympics/2021-08-01.png" alt="WRF wind forecast, July 31 – August 01, 2021" loading="lazy" style="max-width:100%;height:auto;"
+<img src="/assets/img/olympics/2021-07-31.png" alt="WRF wind forecast, July 31 – August 01, 2021" loading="lazy" style="max-width:100%;height:auto;"
      onerror="this.style.display='none';this.nextElementSibling.style.display='block';" />
 <span style="display:none;color:#888;">(forecast plot to be re-added)</span>
 

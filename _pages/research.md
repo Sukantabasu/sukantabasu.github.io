@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: The group works on atmospheric turbulence across scales. The threads below cut across most of our projects.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 ## Atmospheric boundary-layer processes
