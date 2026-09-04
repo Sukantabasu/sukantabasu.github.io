@@ -4,7 +4,7 @@ permalink: /grants/
 title: grants
 description: Sponsored research, most recent first. Amounts are the group's share unless noted otherwise.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 | Period  | Agency                                                 | Project                                                                                           | Role  | Amount                  |

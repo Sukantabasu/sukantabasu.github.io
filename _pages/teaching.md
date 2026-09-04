@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 ## University at Albany — 2024–present

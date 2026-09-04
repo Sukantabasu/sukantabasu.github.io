@@ -4,7 +4,7 @@ permalink: /outreach/
 title: outreach
 description: Public engagement, media, and pre-college education.
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 - Our collaborative work with the Dutch Olympic sailing team was covered by SURF —
