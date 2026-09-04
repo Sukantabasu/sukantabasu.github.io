@@ -2,7 +2,7 @@
 layout: page
 permalink: /hackathons/
 title: hackathons
-description: Applied machine-learning and forecasting competitions, often with students. Selected entries have their own pages.
+description: Applied machine-learning and forecasting competitions. Selected entries have their own pages.
 nav: false
 ---
 
