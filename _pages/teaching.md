@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses taught at the University at Albany and, previously, at TU Delft, NC State, and Texas Tech. Course titles follow my current CV; a few differ slightly from earlier catalog labels.
 nav: true
 nav_order: 7
 ---
