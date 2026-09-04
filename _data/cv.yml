@@ -121,14 +121,14 @@ cv:
         date: 2005
 
     Selected Grants:
-      - bullet: '**Assessing climate exposure and financial impacts at the census-tract level in New York State** — NYS Department of Financial Services. PI. \$1,611,585 (2025–2028).'
-      - bullet: '**Deep learning-based nowcasting of damaging winds (Phases I & II)** — NSF IUCRC (WISER). PI. \$100,000 (2024–2026).'
-      - bullet: '**Atmospheric propagation basic research** — Optonica LLC / DARPA JDETO. PI. \$89,418 (2024–2025).'
+      - bullet: "**Assessing climate exposure and financial impacts at the census-tract level in New York State** — NYS Department of Financial Services. PI. `$1,611,585` (2025–2028)."
+      - bullet: "**Deep learning-based nowcasting of damaging winds (Phases I & II)** — NSF IUCRC (WISER). PI. `$100,000` (2024–2026)."
+      - bullet: "**Atmospheric propagation basic research** — Optonica LLC / DARPA JDETO. PI. `$89,418` (2024–2025)."
       - bullet: "**EU-SCORES — Scalable and Complementary Offshore Renewable Energy Sources** — Horizon 2020, European Green Deal. Co-PI (TU Delft). €448,000 of €34M (2021–2025)."
       - bullet: "**Optical wireless super highways** — Dutch Research Council (NWO). Co-PI. €250,000 of €5.1M (2021–2026)."
       - bullet: "**WINS50 — Winds of the North Sea in 2050** — TKI Wind op Zee. Co-PI. €462,869 (TU Delft part, 2020–2022)."
-      - bullet: '**Better representation of nocturnal low-level jets in large-eddy and mesoscale models** — NSF CAREER Award. PI. \$505,060 (2008–2014).'
-      - bullet: '**Strongly stratified atmospheric boundary-layer processes over the Antarctic Plateau** — NSF Polar Science Program. PI. \$173,000 (2006–2010).'
+      - bullet: "**Better representation of nocturnal low-level jets in large-eddy and mesoscale models** — NSF CAREER Award. PI. `$505,060` (2008–2014)."
+      - bullet: "**Strongly stratified atmospheric boundary-layer processes over the Antarctic Plateau** — NSF Polar Science Program. PI. `$173,000` (2006–2010)."
 
     Professional Service:
       - bullet: "**Associate Editor** — *Journal of Geophysical Research – Atmospheres* (2023–present); *Wind Energy Science* (2022–2026)."

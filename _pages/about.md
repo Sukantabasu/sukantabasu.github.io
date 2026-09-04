@@ -30,7 +30,14 @@ latest_posts:
 
 I am a Professor of [Empire Innovation](https://www.suny.edu/impact/research/empire-innovation-program/) at the [University at Albany (SUNY)](https://www.albany.edu/), jointly appointed in the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc) and the Department of [Environmental and Sustainable Engineering](https://www.albany.edu/environmental-sustainable-engineering).
 
-My group studies **atmospheric turbulence** across scales and the many places it matters: the structure of the atmospheric boundary layer, [optical turbulence](/research/) ($C_n^2$) and its effect on imaging and laser propagation, large-eddy and mesoscale simulation of the lower atmosphere, numerical weather prediction, and wind energy. Increasingly, this work is done with **machine learning** — parameterizations, downscaling, nowcasting, and data-driven surrogates for the Earth system.
+My group studies **atmospheric turbulence** across scales and the many places it matters: the structure of the atmospheric boundary layer, [optical turbulence](/research/) (\\(C_n^2\\)) and its effect on imaging and laser propagation, large-eddy and mesoscale simulation of the lower atmosphere, numerical weather prediction, and wind energy. Increasingly, this work is done with **machine learning** — parameterizations, downscaling, nowcasting, and data-driven surrogates for the Earth system.
+
+<div class="sb-stats" markdown="0">
+  <div><div class="num">80+</div><div class="lbl">Journal articles</div></div>
+  <div><div class="num">6</div><div class="lbl">Research areas</div></div>
+  <div><div class="num">40+</div><div class="lbl">Students &amp; postdocs</div></div>
+  <div><div class="num">25+</div><div class="lbl">Funded projects</div></div>
+</div>
 
 I lead the development of **[JAX-ALFA](/jax-alfa/)** (_Atmospheric LES For All_) — a [JAX](https://jax.readthedocs.io/)-based large-eddy simulation framework for atmospheric boundary-layer flows that runs on CPUs and GPUs, with spectral horizontal derivatives, an FFT pressure solver, and dynamic subgrid-scale closures.
 
