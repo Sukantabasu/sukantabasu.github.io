@@ -158,6 +158,19 @@ article p,
   text-align-last: left;
 }
 
+/* --- Links: keep the theme's link color inside italics ------------------ */
+/* Markdown `[_text_](url)` renders as `<a><em>text</em></a>`. The theme's
+   base typography rule sets `em { color: var(--global-text-color) }`
+   directly on the em element, which wins over the inherited link color from
+   its <a> parent — so an italicized link silently loses its color/underline
+   affordance. Restore it explicitly. */
+a em,
+a i,
+em a,
+i a {
+  color: inherit;
+}
+
 /* --- Navbar: animated underline ----------------------------------------- */
 
 .navbar .nav-item .nav-link {
