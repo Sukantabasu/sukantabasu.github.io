@@ -58,18 +58,18 @@ See also [group photos](/group/photos/).
 | [Sam Koch](https://www.linkedin.com/in/sam-koch-047a9396/) | Inflow wind fields from SpinnerLidar during the ScanFlow project                              | Product Development Manager, Buienradar (RTL), the Netherlands        |
 | [Eric Lacoa Arends](https://www.linkedin.com/in/lacoaarends/) (co-advised) | Novel ML methods for wind-power probabilistic forecasting                                     | Project Lead, ASML, the Netherlands                                    |
 | Haolin Liu                      | Coastal wind-speed gradients from scanning lidar and mesoscale modeling                       | Ph.D. student, HKUST                                                   |
-| [Kazimir Nyzio](https://www.linkedin.com/in/kazimir-nyzio-6421b828b/) | —                                                                                              | Satellite Products Analyst & Trainer, GINA, University of Alaska Fairbanks |
+| [Kazimir Nyzio](https://www.linkedin.com/in/kazimir-nyzio-6421b828b/) (applied MS internship) | Automated identification of extratropical cyclone tracks                                      | Satellite Products Analyst & Trainer, GINA, University of Alaska Fairbanks |
 | [Gijs van Ouwerkerk](https://www.linkedin.com/in/gijs-van-ouwerkerk-606ab6a8/) | Novel ML methods for short-term solar PV forecasting                                          | Trader Intraday, Northpool B.V.                                        |
 | Julie Phillipson                | Bursting events in the stable atmospheric boundary layer                                      | Lead Meteorologist, National Weather Service, Las Vegas, NV            |
 | [Pooja Ramakrishnan](https://www.linkedin.com/in/ramakrishnan-pooja/) (co-advised) | Evaluation of a wind-farm parameterization in an operational mesoscale model                  | Engineering Manager, Forecast Operations, Dexter Energy                |
 | [Heather Richardson](https://www.linkedin.com/in/heather-richardson-13b14967/) | Improving stable-boundary-layer parameterization to better represent nocturnal low-level jets | Director of Advanced Applications and Analytics, NextEra Energy Resources, USA |
-| Kevin Schuurman                 | Fourier neural operators for the Kuramoto–Sivashinsky system                                  | Ph.D. student, TU Delft                                                |
-| Rachel Trier                    | Forecast verification: a dispersion-modeling perspective                                      | Wind Resource Analyst, Alliant Energy                                  |
-| Kars Trommel                    | Wind classification using unsupervised learning                                               | Management Trainee, R&D Engineering, Philips, the Netherlands          |
-| Adithya Vemuri (co-advised)     | Coupled mesoscale–synthetic-turbulence inflow generation                                      | Ph.D. student, von Kármán Institute, Belgium                           |
-| Elizabeth Wilson                | (non-thesis)                                                                                  | Director of Weather Programs, Synoptic Data PBC                        |
-| Camilla van Wirdum (co-advised) | Extreme convective gusts in a future warmer climate                                           | Junior Innovation Scientist, TNO, the Netherlands                      |
-| Qidi Yu                         | Mesoscale modelling of waterspouts: an offshore wind-energy perspective                       | —                                                                      |
+| [Kevin Schuurman](https://www.linkedin.com/in/kevin-schuurman-99b814141/) | Fourier neural operators for the Kuramoto–Sivashinsky system                                  | Ph.D. student, TU Delft                                                |
+| Rachel Trier                    | Forecast verification: a dispersion-modeling perspective                                      | Lead Meteorologist / Senior Energy Analyst, National Renewable Solutions, USA |
+| [Kars Trommel](https://www.linkedin.com/in/kars-trommel/) | Wind classification using unsupervised learning                                               | Analyst, Picnic Technologies, the Netherlands                          |
+| [Adithya Vemuri](https://www.linkedin.com/in/adithyavemuri/) (co-advised) | Coupled mesoscale–synthetic-turbulence inflow generation                                      | Scientist, Urban Meteorology, KNMI, the Netherlands                    |
+| [Elizabeth Wilson](https://www.linkedin.com/in/elizabeth-wilson-pmp-b84b9647/) | (non-thesis)                                                                                  | Director of Weather Programs, Synoptic Data PBC                        |
+| [Camilla van Wirdum](https://www.linkedin.com/in/camillavanwirdum/) (co-advised) | Extreme convective gusts in a future warmer climate                                           | Technology Transfer Officer, TNO, the Netherlands                      |
+| [Qidi Yu](https://www.linkedin.com/in/qidi-yu-382586202/) | Mesoscale modelling of waterspouts: an offshore wind-energy perspective                       | Doctoral Researcher, University of Bergen, Norway                     |
 
 ## Former B.S. advisees (alphabetical by last name)
 
@@ -79,8 +79,8 @@ Michelle Cipullo · Pim Jacobs · Georgi Thiel
 
 | Name                          | Topic                              | Current position                                    |
 | ----------------------------- | ---------------------------------- | --------------------------------------------------- |
-| Nikhil Kondabala              | Turbine inflow characterization    | Director, Energy Technology, Apex Clean Energy      |
-| Kornel Rozsavolgyi (visiting) | Wind resource and site assessments | Wind Resource Manager, Orion Renewable Energy Group |
+| [Nikhil Kondabala](https://www.linkedin.com/in/nkondabala/) | Turbine inflow characterization    | Co-Founder, Pantops Energy                          |
+| [Kornel Rozsavolgyi](https://www.linkedin.com/in/renewablekornel/) (visiting) | Wind resource and site assessments | Wind Resource Manager, Orion Renewable Energy Group |
 
 ## Former visiting researchers
 
