@@ -20,3 +20,29 @@ Full record on [Google Scholar](https://scholar.google.com/citations?user=08bv9p
 {% bibliography %}
 
 </div>
+
+<script>
+  // Number journal articles only, continuously and descending: the newest
+  // article carries the highest number, the oldest carries 1. Book chapters
+  // and conference proceedings are left unnumbered.
+  document.addEventListener("DOMContentLoaded", function () {
+    var items = document.querySelectorAll(".publications ol.bibliography > li");
+    var journalItems = [];
+    items.forEach(function (li) {
+      if (li.querySelector(".bib-article")) {
+        journalItems.push(li);
+      } else {
+        li.classList.add("bib-unnumbered");
+      }
+    });
+    var n = journalItems.length;
+    journalItems.forEach(function (li) {
+      var badge = document.createElement("span");
+      badge.className = "pub-number";
+      badge.textContent = n + ".";
+      li.insertBefore(badge, li.firstChild);
+      li.classList.add("bib-numbered");
+      n--;
+    });
+  });
+</script>

@@ -219,6 +219,25 @@ i a {
   color: #fff;
 }
 
+/* --- Publications: descending journal-article numbers ------------------- */
+/* The count is written in by a small script on the publications page (see
+   _pages/publications.md): journal articles only, newest = highest number. */
+
+.publications ol.bibliography > li {
+  position: relative;
+  padding-left: 2.6rem;
+}
+
+.publications ol.bibliography > li .pub-number {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.2rem;
+  text-align: right;
+  color: var(--global-text-color-light, #828282);
+  font-variant-numeric: tabular-nums;
+}
+
 /* --- News as a timeline --------------------------------------------------- */
 
 .news table td.date {

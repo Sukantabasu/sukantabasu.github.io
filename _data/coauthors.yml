@@ -12,15 +12,19 @@
 
 "kartal":
   - firstname: ["Serkan", "S", "S."]
+    url: https://www.linkedin.com/in/serkan-kartal-39063b14a/
 
 "cheneka":
   - firstname: ["Bedassa", "Bedassa R", "B R", "B. R."]
+    url: https://www.linkedin.com/in/bedassa-regassa-cheneka/
 
 "li":
   - firstname: ["Bowen", "B", "B."]
+    url: https://www.linkedin.com/in/bowen-li-00258b223/
 
 "dai":
   - firstname: ["Yi", "Y", "Y."]
+    url: https://www.linkedin.com/in/yi-dai-a349271b8/
 
 "he":
   - firstname: ["Ping", "P", "P.", "P H", "P. H."]
@@ -28,21 +32,26 @@
 
 "demarco":
   - firstname: ["Adam", "Adam W", "A W", "A. W."]
+    url: https://www.linkedin.com/in/adam-demarco-ph-d-b95b9b26/
 
 "wang":
   - firstname: ["Yao", "Y", "Y."]
+    url: https://www.linkedin.com/in/yao-wang-70177263/
 
 "nunalee":
   - firstname: ["Christopher", "Christopher G", "Chris", "C G", "C. G."]
+    url: https://www.linkedin.com/in/christopher-nunalee-38547b21/
 
 "kiliyanpilakkil":
   - firstname: ["Velayudhan Praju", "V P", "V. P."]
 
 "hawbecker":
   - firstname: ["Patrick", "Patrick H", "P H", "P. H."]
+    url: https://www.linkedin.com/in/patrick-hawbecker/
 
 "storm":
   - firstname: ["Brandon", "B", "B."]
+    url: https://www.linkedin.com/in/brandon-storm-4300a01b/
 
 "anderson":
   - firstname: ["William", "William C", "W C", "W. C."]
@@ -50,12 +59,14 @@
 
 "ruiz-columbié":
   - firstname: ["Arquímedes", "A", "A."]
+    url: https://www.linkedin.com/in/arquimedes-ruiz-columbie-ba940738/
 
 "phillipson":
   - firstname: ["Julie", "Julie A", "J A", "J. A."]
 
 "harshan":
   - firstname: ["Suraj", "S", "S."]
+    url: https://www.linkedin.com/in/surajharshan/
 
 "richardson":
   - firstname: ["Heather", "H", "H."]
@@ -65,12 +76,16 @@
 
 "singh":
   - firstname: ["Jaya", "J", "J."]
+    url: https://www.linkedin.com/in/jaya-singh-162108314/
 
 "dwivedi":
   - firstname: ["Vikas", "V", "V."]
+    url: https://www.linkedin.com/in/vikas-dwivedi-795606244/
 
 "tewari":
   - firstname: ["Mukul", "M", "M."]
+    url: https://www.linkedin.com/in/mukul-tewari-5565a341/
 
 "yu":
   - firstname: ["Chau Lam", "Chris", "C L", "C. L."]
+    url: https://www.linkedin.com/in/chau-lam-chris-yu-352aa9147/
