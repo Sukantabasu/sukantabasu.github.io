@@ -1,6 +1,6 @@
 # Colour for each topic badge (the bibliography `abbr` field).
 # al-folio's bib layout reads site.data.venues[abbr].color as the badge background.
-ABL:
+Turbulence:
   color: "#1D3557"
 Optics:
   color: "#5B4B8A"
@@ -12,7 +12,7 @@ ML:
   color: "#B07A1E"
 Mesoscale:
   color: "#3A7D44"
-Dynamics:
+Scaling:
   color: "#8E4585"
 Chapter:
   color: "#5C636A"
