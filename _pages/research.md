@@ -2,44 +2,47 @@
 layout: page
 permalink: /research/
 title: research
-description: The group works on atmospheric turbulence across scales. The threads below cut across most of our projects.
+description: Our group studies atmospheric turbulence across scales through several closely connected research themes.
 nav: true
 nav_order: 3
 ---
 
 ## Atmospheric boundary-layer processes
 
-Structure and scaling of turbulence in the stable and convective boundary layer:
-similarity theory, the very stable regime and model "run-away" cooling, low-level jets,
-boundary-layer height, and the dissipation rate of velocity and temperature fluctuations.
+Our research examines the structure and scaling of turbulence in canonical
+atmospheric boundary layers. Topics include similarity theory, the very stable regime, 
+low-level jets, boundary-layer height, and the dissipation rates of velocity and temperature fluctuations.
 
 ## Atmospheric optics
 
-Refractive-index and temperature structure parameters ($C_n^2$, $C_T^2$) and their effect on
-imaging and laser propagation — physically based and machine-learned parameterizations,
-mesoscale prediction of optical turbulence, ray tracing through refractive structures, and
-von Kármán vortex streets. Part of NATO SET groups on atmospheric effects on electro-optical systems.
+We investigate refractive-index structure parameter ($C_n^2$)
+and its effects on imaging and laser propagation. This work encompasses physics-based
+and machine-learned parameterizations, mesoscale prediction of optical turbulence, and ray
+tracing through refractive structures. We also contribute to NATO SET groups studying atmospheric effects on electro-optical systems.
 
-## Large-eddy simulation
+## Large-eddy simulation (LES)
 
-Scale-dependent dynamic subgrid-scale modeling, grid-resolution sensitivity in stable
-boundary layers, and LES intercomparison (chair of the 3rd GABLS LES intercomparison).
-I developed **[JAX-ALFA](/jax-alfa/)**, an open-source JAX-based LES framework that runs on CPUs and GPUs.
+Our work focuses on scale-dependent dynamic subgrid-scale modeling, sensitivity to grid
+resolution in stable boundary layers, and LES intercomparison. I
+chaired the third GABLS LES intercomparison and developed **[JAX-ALFA](/jax-alfa/)**, an
+open-source, JAX-based LES framework that runs on CPUs and GPUs.
 
-## Mesoscale modeling & numerical weather prediction
+## Numerical weather prediction
 
-WRF and gray-zone modeling for wind energy and optical applications: low-level jets,
-coastal and offshore flows, island wakes, downscaling of reanalyses, and the vertical
-resolution needed to represent optical turbulence.
+We use mesoscale and gray-zone modeling for wind-energy and atmospheric-optics applications.
+Research topics include low-level jets, coastal and offshore flows, island wakes,
+downscaling of extreme winds, etc.
 
 ## Renewable energy
 
-Inflow generation for turbine-load analysis, thunderstorm downbursts, wind-power ramps and
-Dunkelflaute events, offshore resource assessment, and forecasting. Contributor to the
-_Grand Challenges in wind energy_ and IEA Wind Task 51.
+Our renewable-energy research addresses inflow generation for turbine-load analysis,
+thunderstorm downbursts, wind-power ramps, Dunkelflaute events, offshore wind-resource
+assessment, and forecasting. We have contributed to the [_Grand Challenges in Wind Energy_](https://wes.copernicus.org/articles/collection15.html)
+and [IEA Wind Task 51](https://iea-wind.org/task51/).
 
 ## Machine learning for the Earth sciences
 
-Parameterization, downscaling, nowcasting, and data-driven surrogates — gradient boosting,
-TabNet, convolutional autoencoders, neural operators, and foundation models — for optical
+We develop machine learning methods for parameterization, downscaling, nowcasting, and
+data-driven surrogate modeling. These methods (e.g., gradient boosting machines,
+convolutional autoencoders, neural operators, and foundation models) are applied to optical
 turbulence, wind gusts, wind power, and air quality.
