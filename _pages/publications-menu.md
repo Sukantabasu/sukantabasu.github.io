@@ -10,14 +10,14 @@ children:
   - title: divider
   - title: Atmospheric optics
     permalink: /publications/optics/
-  - title: Dynamical systems
-    permalink: /publications/dynamical-systems/
   - title: Large-eddy simulation
     permalink: /publications/large-eddy-simulation/
   - title: Machine learning
     permalink: /publications/machine-learning/
-  - title: Mesoscale modeling
-    permalink: /publications/mesoscale-modeling/
+  - title: NWP
+    permalink: /publications/nwp/
   - title: Renewable energy
     permalink: /publications/renewable-energy/
+  - title: Scaling
+    permalink: /publications/scaling/
 ---

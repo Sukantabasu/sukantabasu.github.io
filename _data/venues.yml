@@ -10,7 +10,7 @@ LES:
   color: "#3D6E8E"
 ML:
   color: "#B07A1E"
-Mesoscale:
+NWP:
   color: "#3A7D44"
 Scaling:
   color: "#8E4585"
