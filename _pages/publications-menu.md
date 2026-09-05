@@ -18,6 +18,6 @@ children:
     permalink: /publications/machine-learning/
   - title: Mesoscale modeling
     permalink: /publications/mesoscale-modeling/
-  - title: Wind energy
-    permalink: /publications/wind-energy/
+  - title: Renewable energy
+    permalink: /publications/renewable-energy/
 ---

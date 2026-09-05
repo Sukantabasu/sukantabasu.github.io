@@ -32,7 +32,7 @@ WRF and gray-zone modeling for wind energy and optical applications: low-level j
 coastal and offshore flows, island wakes, downscaling of reanalyses, and the vertical
 resolution needed to represent optical turbulence.
 
-## Wind energy
+## Renewable energy
 
 Inflow generation for turbine-load analysis, thunderstorm downbursts, wind-power ramps and
 Dunkelflaute events, offshore resource assessment, and forecasting. Contributor to the
