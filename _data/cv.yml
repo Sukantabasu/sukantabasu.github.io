@@ -43,6 +43,8 @@ cv:
         studyType: B.Tech. (Honors)
         start_date: 1994
         end_date: 1998
+        highlights:
+          - "Best final year project in Civil Engineering."
 
     Experience:
       - company: University at Albany (SUNY)
@@ -69,45 +71,24 @@ cv:
         start_date: 2005-09-01
         end_date: 2010-08-31
         summary: Atmospheric Science Group, Department of Geosciences; Wind Science and Engineering Research Center.
-      - company: University of Minnesota
-        position: Post-doctoral Research Associate
-        location: Minneapolis, MN, USA
-        start_date: 2005-01-01
-        end_date: 2005-06-30
-        summary: St. Anthony Falls Laboratory.
-      - company: Università degli Studi di Cagliari
-        position: Visiting Professor
-        location: Cagliari, Italy
-        start_date: 2019-06-01
-        end_date: 2019-06-15
-      - company: North Carolina State University
-        position: Adjunct Associate Professor
-        location: Raleigh, NC, USA
-        start_date: 2016-08-01
-        end_date: 2018-09-30
-      - company: Wageningen University
-        position: Visiting Scientist
-        location: Wageningen, The Netherlands
-        start_date: 2008-05-01
-        end_date: 2008-06-30
 
-    Honors and Awards:
+    Selected Honors and Awards:
       - title: Elected Full Member
         awarder: Sigma Xi, The Scientific Research Honor Society
         date: 2026-08-04
         url: /assets/pdf/sigma-xi-membership-certificate-2026.pdf
-      - title: Editor's Pick
-        awarder: Applied Optics
-        date: 2026
-      - title: Editor's Pick
-        awarder: Optics Letters
-        date: 2023
+      - title: Outstanding Research Award
+        awarder: University at Albany, Research & Entrepreneurship Week
+        date: 2025-10-31
+        url: https://www.albany.edu/cnse/news/2025-ualbany-honor-research-pioneers-cnse
       - title: Third place, NASA Airathon (trace-gas track)
         awarder: NASA / DrivenData
         date: 2022
+        url: https://drivendata.co/blog/nasa-airathon-winners
       - title: First place, Shell.ai Hackathon for sustainable and affordable energy
         awarder: Shell
         date: 2021
+        url: https://www.shell.com/what-we-do/digitalisation/collaboration-and-open-innovation/shell-ai-hackathon-for-sustainable-and-affordable-energy-past-editions.html
       - title: "Best Teacher Award (rank #1), Geoscience & Remote Sensing and Environmental Engineering tracks"
         awarder: TU Delft
         date: 2019
@@ -120,9 +101,6 @@ cv:
       - title: Best Ph.D. Dissertation in Civil Engineering
         awarder: University of Minnesota
         date: 2005
-      - title: Climate and Global Change Postdoctoral Fellowship (declined)
-        awarder: NOAA
-        date: 2005
 
     Selected Grants:
       - bullet: "**Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management** — NASA. PI. `$500K` (2026–2028)."
@@ -131,9 +109,7 @@ cv:
       - bullet: "**Atmospheric propagation basic research** — Optonica LLC / DARPA JDETO. PI. `$89K` (2024–2025)."
       - bullet: "**EU-SCORES — Scalable and Complementary Offshore Renewable Energy Sources** — Horizon 2020, European Green Deal. Co-PI (TU Delft). €448K of €34M (2021–2025)."
       - bullet: "**Optical wireless super highways** — Dutch Research Council (NWO). Co-PI. €250K of €5.1M (2021–2026)."
-      - bullet: "**WINS50 — Winds of the North Sea in 2050** — TKI Wind op Zee. Co-PI. €463K (TU Delft part, 2020–2022)."
       - bullet: "**Better representation of nocturnal low-level jets in large-eddy and mesoscale models** — NSF CAREER Award. PI. `$505K` (2008–2014)."
-      - bullet: "**Strongly stratified atmospheric boundary-layer processes over the Antarctic Plateau** — NSF Polar Science Program. PI. `$173K` (2006–2010)."
 
     Professional Service:
       - bullet: "**Associate Editor** — *Journal of Geophysical Research – Atmospheres* (2023–present); *Wind Energy Science* (2022–2026)."
@@ -142,15 +118,15 @@ cv:
       - bullet: "**Conference organization** — Organizing Committee, NCAR ASP Summer Colloquium on the Atmospheric Boundary Layer (2023); Theme Lead (Wind & Wind Farms), TORQUE 2020 & 2022; Program Chair, OSA pcAOP (2019–2021); Chair, 3rd GABLS LES Intercomparison (2008–2010)."
 
     Teaching:
-      - bullet: "**University at Albany** — ESE 332: Air Quality Modeling."
-      - bullet: "**TU Delft** — CIE 4605: Atmospheric Turbulence; CIE 4707: Air Quality; AESB 2121: Signals and Systems with Python."
+      - bullet: "**University at Albany** — Air Quality Modeling."
+      - bullet: "**TU Delft** — Atmospheric Turbulence; Air Quality; Signals and Systems with Python."
       - bullet: "**North Carolina State University** — Micrometeorology; Fluid Physics; Air Pollution Meteorology; Wind Power Meteorology; Planetary Boundary Layer."
       - bullet: "**Texas Tech University** — Introduction to Atmospheric Science; Wind Power Meteorology; Atmospheric Dispersion Modeling; Boundary-layer Meteorology; Regional-scale Numerical Weather Prediction."
 
-    Machine Learning Competitions:
-      - bullet: "**Shell.ai Hackathon** — fuel-blend properties: Level-2 finalist (one of ~25 of ~7000), 2025."
-      - bullet: "**IEEE Hybrid Energy Forecasting & Trading Competition** — 6th overall, 2024."
+    Selected ML Competitions:
+      - bullet: "**[Shell.ai Hackathon](https://alchemist-shellai-hackathon-2025.readthedocs.io/en/latest/)** — fuel-blend properties: Level-2 finalist (one of ~25 of ~7000), 2025 ([code](https://github.com/Sukantabasu/alchemist-shell.ai-hackathon-2025))."
+      - bullet: "**[IEEE Hybrid Energy Forecasting & Trading Competition](https://www.rebase.energy/challenges/heftcom2024)** — 6th overall, 2024."
       - bullet: "**Solafune — aerosol optical depth** — 25th of 307 (bronze), 2024."
       - bullet: "**HEROx American-Made Net Load Forecasting Prize** — 9th overall; 1st for Amity, OR, 2023."
-      - bullet: "**NASA Airathon** — 3rd (trace gas), 6th (particulates), 2022."
+      - bullet: "**[NASA Airathon](https://drivendata.co/blog/nasa-airathon-winners)** — 3rd (trace gas), 6th (particulates), 2022."
       - bullet: "**DrivenData — tropical storm intensity** — 32nd of 733, 2020."

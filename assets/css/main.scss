@@ -154,6 +154,8 @@ article p,
 .post-content p {
   max-width: 42rem;
   line-height: 1.7;
+  text-align: justify;
+  text-align-last: left;
 }
 
 /* --- Navbar: animated underline ----------------------------------------- */
