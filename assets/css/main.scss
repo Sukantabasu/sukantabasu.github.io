@@ -287,3 +287,25 @@ td code,
 .cv .date-column .badge {
   min-width: 92px;
 }
+
+/* --- Teaching page: align the "Terms" column across separate tables ----- */
+/* Each university's course table auto-sizes its own columns based on its
+   own content, so the "Terms" column lands at a different x position per
+   table (e.g. TU Delft's longer course names push it further right than
+   UAlbany's). Forcing matching fixed-percentage column widths keeps every
+   table's column boundary in the same place regardless of content length. */
+
+.teaching-tables table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.teaching-tables th:first-child,
+.teaching-tables td:first-child {
+  width: 65%;
+}
+
+.teaching-tables th:last-child,
+.teaching-tables td:last-child {
+  width: 35%;
+}

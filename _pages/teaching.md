@@ -6,6 +6,8 @@ nav: true
 nav_order: 8
 ---
 
+<div class="teaching-tables" markdown="1">
+
 ## University at Albany — 2024–present
 
 | Course              | Terms                   |
@@ -43,3 +45,5 @@ Founding coordinator of the M.Sc. track in _Atmospheric Environment Engineering_
 | Atmospheric Dispersion Modeling            | Spring 2006, 2008           |
 | Boundary-layer Meteorology                 | Fall 2007, 2009             |
 | Regional-scale Numerical Weather Prediction | Spring 2007                 |
+
+</div>
