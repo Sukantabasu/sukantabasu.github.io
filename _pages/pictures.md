@@ -26,7 +26,7 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2023-san-antonio.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with Prof. Lance Manuel in San Antonio, Texas (2023)." %}
 
-{% include figure.liquid path="assets/img/group/2022-itbms-keynote.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu delivering a keynote lecture at the ITBMS conference, with Marie-Thérèse Velluet, Bagnères-de-Bigorre, France (2022)." %}
+{% include figure.liquid path="assets/img/group/2022-itbms-keynote.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu delivering a keynote lecture at the ITBMS conference, with Dr. Marie-Thérèse Velluet, Bagnères-de-Bigorre, France (2022)." %}
 
 </div>
 
@@ -74,7 +74,7 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2012-beijing.jpg" class="img-fluid rounded z-depth-1" caption="Yao Wang (left) and Sukanta Basu (right) in Beijing, China (2012)." %}
 
-{% include figure.liquid path="assets/img/group/2011-nc-patio.jpg" class="img-fluid rounded z-depth-1" caption="Prof. Bert Holtslag (left) and Sukanta Basu (right) in North Carolina (2011)." %}
+{% include figure.liquid path="assets/img/group/2011-nc-patio.jpg" class="img-fluid rounded z-depth-1" caption="Prof. Bert Holtslag (left) and Sukanta Basu (right) in Raleigh, North Carolina (2011)." %}
 
 {% include figure.liquid path="assets/img/group/2011-boulder.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (standing left), Yao Wang (standing right), and Heather Richardson (sitting) near Boulder, Colorado (2011)." %}
 
