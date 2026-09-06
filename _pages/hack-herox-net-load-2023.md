@@ -5,6 +5,12 @@ title: HEROx Net Load Forecasting (2023)
 nav: false
 ---
 
+<img src="/assets/img/hackathons/herox-2023-banner.jpg" alt="American-Made Challenges — Net Load Forecasting Prize" style="max-width:600px;width:100%;height:auto;" />
+
+<img src="/assets/img/hackathons/herox-2023-leaderboard-average.png" alt="Net Load Forecasting Prize leaderboard (average across sites) — team Chromite in 9th place" style="max-width:600px;width:100%;height:auto;" />
+
+<img src="/assets/img/hackathons/herox-2023-leaderboard-amity.png" alt="Net Load Forecasting Prize leaderboard for Amity, Oregon — team Chromite in 1st place" style="max-width:600px;width:100%;height:auto;" />
+
 I led a team (**Chromite**) that came **9th overall** and **1st for Amity, Oregon**.
 
 Competition: <https://www.herox.com/net-load-forecasting>
