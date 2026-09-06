@@ -2,7 +2,6 @@
 layout: page
 permalink: /jax-alfa/
 title: JAX-ALFA
-description: A JAX-based large-eddy simulation framework for atmospheric boundary-layer flows.
 nav: false
 ---
 

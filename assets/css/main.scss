@@ -209,6 +209,12 @@ figure.page-photo {
   }
 }
 
+/* Pages with no `description` in front matter still render an empty
+   <p class="post-description"> that carries a 2rem bottom margin. */
+.post-description:empty {
+  display: none;
+}
+
 /* --- JAX-ALFA logo --------------------------------------------------- */
 
 img.jax-alfa-logo {
