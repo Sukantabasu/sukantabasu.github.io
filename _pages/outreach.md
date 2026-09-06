@@ -8,6 +8,14 @@ nav_order: 9
 ---
 
 <div class="photo-collage" markdown="0">
+  <img src="/assets/img/outreach/kidwind-1.jpg" alt="Middle-school student presenting a model wind turbine to judges at the Capital District Wind Challenge" />
+  <img src="/assets/img/outreach/kidwind-2.jpg" alt="Students presenting their design to the judging panel at the Capital District Wind Challenge" />
+  <img src="/assets/img/outreach/kidwind-3.jpg" alt="Sukanta Basu with the University at Albany Nanoscale Science and Engineering outreach team at the Capital District Wind Challenge" />
+</div>
+
+<p class="photo-collage-caption">Capital District Wind Challenge (KidWind), University at Albany College of Nanotechnology, Science, and Engineering (2026)</p>
+
+<div class="photo-collage" markdown="0">
   <img src="/assets/img/outreach/camp-1.jpg" alt="Student assembling a model wind turbine at the Run on the Wind summer camp" />
   <img src="/assets/img/outreach/camp-2.jpg" alt="Run on the Wind summer camp" />
   <img src="/assets/img/outreach/camp-3.jpg" alt="Run on the Wind summer camp" />

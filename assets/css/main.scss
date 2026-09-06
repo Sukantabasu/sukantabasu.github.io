@@ -211,11 +211,13 @@ figure.page-photo.page-photo-narrow {
   }
 }
 
-.photo-collage-caption {
+/* `p.` beats the `article p` measure/justify rule so the caption stays centered */
+p.photo-collage-caption {
   max-width: none;
   margin: 0 0 1.75rem;
   font-size: 0.9rem;
   text-align: center;
+  text-align-last: center;
   color: var(--global-text-color-light, #828282);
 }
 
@@ -253,6 +255,19 @@ figure.page-photo.page-photo-narrow {
 @media (max-width: 600px) {
   .photo-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+/* A lone image on the final row (odd count) sits centered, one column wide */
+.photo-grid:not(.photo-grid-wide) > figure:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+  max-width: calc((100% - 1.25rem) / 2);
+  margin-inline: auto;
+}
+
+@media (max-width: 600px) {
+  .photo-grid:not(.photo-grid-wide) > figure:last-child:nth-child(odd) {
+    max-width: 100%;
   }
 }
 
