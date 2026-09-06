@@ -18,6 +18,10 @@ nav_order: 9
 
 <p class="photo-collage-caption">"Run on the Wind: Engineering a Clean Tomorrow" summer camp, Texas Tech University (2009–2010)</p>
 
+- I served as a judge for the **Capital District Wind Challenge**, the regional event of the
+  national KidWind program, hosted at the University at Albany's College of Nanotechnology,
+  Science, and Engineering. Middle-school students designed, built, and tested model wind
+  turbines and defended their engineering decisions to a panel of judges (2026).
 - Our collaborative work with the Dutch Olympic sailing team was covered by SURF —
   ["On track for gold"](https://www.surf.nl/en/on-track-for-gold)
   ([PDF, SURF Magazine, March 2020](/assets/pdf/surf-magazine-2020-teamnl-sailing.pdf)) — and by

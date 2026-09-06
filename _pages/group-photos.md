@@ -30,7 +30,7 @@ nav: false
 
 <div class="photo-grid photo-grid-wide" markdown="0">
 
-{% include figure.liquid path="assets/img/group/2019-cagliari-wrf.jpg" class="img-fluid rounded z-depth-1" caption="Participants of the short course &ldquo;WRF modelling for wind energy applications&rdquo; at the Università degli Studi di Cagliari, Italy, hosted by Prof. Maria Grazia Badas (2019)." %}
+{% include figure.liquid path="assets/img/group/2019-cagliari-wrf.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with attendees of his short course &ldquo;WRF modelling for wind energy applications,&rdquo; which he taught as a Visiting Professor at the Università degli Studi di Cagliari, Italy, at the invitation of Prof. Maria Grazia Badas (2019)." %}
 
 </div>
 
