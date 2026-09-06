@@ -20,7 +20,7 @@ children:
     permalink: /hackathons/herox-net-load-2023/
   - title: NASA Airathon (2022)
     permalink: /hackathons/nasa-airathon-2022/
-  - title: Shell.ai Hackathon (2021)
+  - title: Shell.ai Hackathon — Solar Nowcasting (2021)
     permalink: /hackathons/shell-ai-2021/
   - title: IEEE Day-ahead Demand Forecasting (2021)
     permalink: /hackathons/ieee-2021/

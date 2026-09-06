@@ -40,7 +40,7 @@ nav_order: 9
 ### 2022
 
 - ITBMS meeting, Bagnères-de-Bigorre, France — Sukanta Basu
-- TORQUE Conference (virtual) — Sukanta Basu
+- TORQUE Conference, Delft, The Netherlands — Sukanta Basu
 - pcAOP Conference (virtual) — Sukanta Basu
 
 ### 2021

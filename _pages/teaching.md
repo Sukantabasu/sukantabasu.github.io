@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
+description: Graduate and undergraduate courses taught across four universities since 2005.
 nav: true
 nav_order: 8
 ---

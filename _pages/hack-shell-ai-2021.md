@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hackathons/shell-ai-2021/
-title: Shell.ai Hackathon (2021)
+title: Shell.ai Hackathon — Solar Nowcasting (2021)
 nav: false
 ---
 

@@ -103,7 +103,7 @@ cv:
         date: 2005
 
     Selected Grants:
-      - bullet: "**Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management** — NASA. PI. `$500K` (2026–2028)."
+      - bullet: "**Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management** — NASA. PI. `$302K` (2026–2028)."
       - bullet: "**Assessing climate exposure and financial impacts at the census-tract level in New York State** — NYS Department of Financial Services. PI. `$1.6M` (2025–2028)."
       - bullet: "**Deep learning-based nowcasting of damaging winds (Phases I & II)** — NSF IUCRC (WISER). PI. `$100K` (2024–2026)."
       - bullet: "**Atmospheric propagation basic research** — Optonica LLC / DARPA JDETO. PI. `$89K` (2024–2025)."
@@ -128,5 +128,5 @@ cv:
       - bullet: "**[IEEE Hybrid Energy Forecasting & Trading Competition](https://www.rebase.energy/challenges/heftcom2024)** — 6th overall, 2024."
       - bullet: "**[Solafune — aerosol optical depth](https://community.solafune.com/competitions/ca6ee401-eba9-4f7d-95e6-d1b378a17200?menu=lb&tab=private)** — 25th of 307 (bronze), 2024."
       - bullet: "**HEROx American-Made Net Load Forecasting Prize** — 9th overall; 1st for Amity, OR, 2023."
-      - bullet: "**[NASA Airathon](https://drivendata.co/blog/nasa-airathon-winners)** — 3rd (trace gas), 6th (particulates), 2022."
+      - bullet: "**[NASA Airathon](https://drivendata.co/blog/nasa-airathon-winners)** — 3rd (NO₂), 6th (PM₂.₅), 2022."
       - bullet: "**[DrivenData — tropical storm intensity](https://www.drivendata.org/competitions/72/predict-wind-speeds/leaderboard/)** — 32nd of 733, 2020."

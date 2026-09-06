@@ -7,11 +7,11 @@ nav: false
 
 <div class="hackathon-media" markdown="0">
   <img src="/assets/img/hackathons/nasa-airathon-tracegas-leaderboard.jpg" alt="Trace-gas (NO₂) track leaderboard, final standings" style="max-width:600px;width:100%;height:auto;" />
-  <img src="/assets/img/hackathons/nasa-airathon-particulate-leaderboard.jpg" alt="Particulate-matter (PM) track leaderboard, final standings" style="max-width:600px;width:100%;height:auto;" />
+  <img src="/assets/img/hackathons/nasa-airathon-particulate-leaderboard.jpg" alt="Particulate-matter (PM2.5) track leaderboard, final standings" style="max-width:600px;width:100%;height:auto;" />
 </div>
 
 The NASA Airathon had two tracks. I ranked **3rd in the trace-gas (NO₂) track** and
-**6th in the particulate (PM) track**.
+**6th in the particulate-matter (PM₂.₅) track**.
 
 - Trace gas: <https://www.drivendata.org/competitions/91/competition-air-quality-no2/>
 - Particulates: <https://www.drivendata.org/competitions/88/competition-air-quality-pm/>

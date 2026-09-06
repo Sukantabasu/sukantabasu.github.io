@@ -9,11 +9,13 @@ nav_order: 4
 
 ## Current members (alphabetical by last name)
 
+At the University at Albany unless noted.
+
 **Research scientists** — Dr. [Mukul Tewari](https://www.linkedin.com/in/mukul-tewari-5565a341/) · Dr. [Chau Lam (Chris) Yu](https://www.linkedin.com/in/chau-lam-chris-yu-352aa9147/)
 
 **Post-doctoral research associate** — Dr. [Harish Baki](https://harishbaki.github.io/)
 
-**Ph.D. students** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/) (University at Albany) · [Maximilian Pierzyna](https://mpier.eu/) (TU Delft)
+**Ph.D. students** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/) · [Maximilian Pierzyna](https://mpier.eu/) (TU Delft)
 
 **M.S. students** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
 
