@@ -5,9 +5,6 @@ nav: true
 nav_order: 11
 dropdown: true
 children:
-  - title: Software & data
-    permalink: /software/
-  - title: divider
   - title: Conferences
     permalink: /conferences/
   - title: Olympics 2020
