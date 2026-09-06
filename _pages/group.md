@@ -3,7 +3,8 @@ layout: page
 permalink: /group/
 title: group
 description: Current members of the research group and former advisees.
-nav: false
+nav: true
+nav_order: 4
 ---
 
 ## Current members (alphabetical by last name)
@@ -16,7 +17,7 @@ nav: false
 
 **M.S. students** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
 
-See also [group photos](/group/photos/).
+See also [pictures](/pictures/) over the years.
 
 ---
 

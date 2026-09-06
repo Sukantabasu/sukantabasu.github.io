@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /group/photos/
-title: group photos
-description: A few pictures over the years — current and former group members, along with collaborators and hosts.
+permalink: /pictures/
+title: pictures
+description: Images over the years of group members and collaborators.
 nav: false
 ---
 
