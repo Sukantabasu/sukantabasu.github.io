@@ -188,6 +188,12 @@ figure.page-photo.page-photo-text {
   }
 }
 
+/* Compact centered variant for square-ish or poster-style images */
+figure.page-photo.page-photo-narrow {
+  max-width: 30rem;
+  margin-inline: auto;
+}
+
 /* --- Photo collage grid ----------------------------------------------- */
 
 .photo-collage {

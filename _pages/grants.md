@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+<figure class="page-photo page-photo-narrow">
+  <img src="/assets/img/grants/wiser-2025-iab.jpg" alt="Sukanta Basu, Jeff Freedman, Matthew Reuter, and Richard Perez at the WISER 2025 Industry Advisory Board meeting" />
+</figure>
+
 | Period  | Agency                                                 | Project                                                                                           | Role  | Amount                  |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- | ----------------------- |
 | 2026–28 | NASA                                                   | Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management | PI    | `$500K`                 |
