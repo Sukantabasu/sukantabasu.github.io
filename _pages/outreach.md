@@ -28,7 +28,5 @@ nav_order: 9
   Prof. Robert McComb (Economics & Geography) at Texas Tech University, I co-directed the
   **"Run on the Wind: Engineering a Clean Tomorrow"** summer camp for middle- and high-school
   students (2009, 2010).
-- Interviewed by _Radio In Vivo_ on the science of wind energy (2012):
-  <http://radioinvivo.org/2012/03/21/the-science-of-wind-energy/>
 
 Additional university and SUNY-system service is listed on my [CV](/cv/).
