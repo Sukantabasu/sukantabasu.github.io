@@ -7,7 +7,10 @@ nav: false
 nav_order: 9
 ---
 
-<img src="/assets/img/conferences/conf-top.jpg" alt="Conference group photo" style="width:100%;height:auto;border-radius:6px;" />
+<figure class="page-photo">
+  <img src="/assets/img/conferences/conf-top.jpg" alt="ITBMS Meeting group photo, Bagnères-de-Bigorre" />
+  <figcaption>ITBMS Meeting at Bagnères-de-Bigorre, France (2022)</figcaption>
+</figure>
 
 ### 2026
 
@@ -152,4 +155,7 @@ nav_order: 9
 - AGU Joint Assembly, Acapulco, Mexico — Sukanta Basu
 - WRF Verification Workshop, Boulder, Colorado — Sukanta Basu
 
-<img src="/assets/img/conferences/conf-bottom.jpg" alt="Conference group photo" style="width:100%;height:auto;border-radius:6px;" />
+<figure class="page-photo">
+  <img src="/assets/img/conferences/conf-bottom.jpg" alt="GABLS Meeting group photo, ECMWF, Reading" />
+  <figcaption>GABLS Meeting at ECMWF, Reading, UK (2011)</figcaption>
+</figure>

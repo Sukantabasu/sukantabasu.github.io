@@ -7,6 +7,17 @@ nav: true
 nav_order: 9
 ---
 
+<div class="photo-collage" markdown="0">
+  <img src="/assets/img/outreach/camp-1.jpg" alt="Student assembling a model wind turbine at the Run on the Wind summer camp" />
+  <img src="/assets/img/outreach/camp-2.jpg" alt="Run on the Wind summer camp" />
+  <img src="/assets/img/outreach/camp-3.jpg" alt="Run on the Wind summer camp" />
+  <img src="/assets/img/outreach/camp-4.jpg" alt="Student beside a homemade wind tunnel at the Run on the Wind summer camp" />
+  <img src="/assets/img/outreach/camp-5.jpg" alt="Run on the Wind summer camp" />
+  <img src="/assets/img/outreach/camp-6.jpg" alt="Run on the Wind summer camp" />
+</div>
+
+<p class="photo-collage-caption">"Run on the Wind: Engineering a Clean Tomorrow" summer camp, Texas Tech University (2009–2010)</p>
+
 - Our collaborative work with the Dutch Olympic sailing team was covered by SURF —
   ["On track for gold"](https://www.surf.nl/en/on-track-for-gold)
   ([PDF, SURF Magazine, March 2020](/assets/pdf/surf-magazine-2020-teamnl-sailing.pdf)) — and by
