@@ -209,6 +209,45 @@ figure.page-photo {
   }
 }
 
+/* --- Olympics forecast video grid ------------------------------------- */
+
+.forecast-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+
+  figure {
+    margin: 0;
+  }
+
+  video {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    background: #000;
+  }
+
+  figcaption {
+    margin-top: 0.4rem;
+    font-size: 0.85rem;
+    text-align: center;
+    color: var(--global-text-color-light, #828282);
+  }
+}
+
+@media (max-width: 768px) {
+  .forecast-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .forecast-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* --- Links: keep the theme's link color inside italics ------------------ */
 /* Markdown `[_text_](url)` renders as `<a><em>text</em></a>`. The theme's
    base typography rule sets `em { color: var(--global-text-color) }`
