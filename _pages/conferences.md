@@ -7,8 +7,11 @@ nav: false
 nav_order: 9
 ---
 
+<img src="/assets/img/conferences/conf-top.jpg" alt="Conference group photo" style="width:100%;height:auto;border-radius:6px;" />
+
 ### 2026
 
+- SPIE Optics + Photonics, San Diego — Sukanta Basu
 - ESA/ECMWF _Machine Learning for Earth System Observation and Prediction_, Bologna, Italy — Max Pierzyna
 - AMS Annual Meeting, Houston — Ekaterina Belash, Chris Yu
 
@@ -148,3 +151,5 @@ nav_order: 9
 - WindPower 2007, Los Angeles, California — Brandon Storm
 - AGU Joint Assembly, Acapulco, Mexico — Sukanta Basu
 - WRF Verification Workshop, Boulder, Colorado — Sukanta Basu
+
+<img src="/assets/img/conferences/conf-bottom.jpg" alt="Conference group photo" style="width:100%;height:auto;border-radius:6px;" />
