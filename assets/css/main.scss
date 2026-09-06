@@ -188,22 +188,16 @@ figure.page-photo.page-photo-text {
   }
 }
 
-/* --- Hackathon pages: center and frame each screenshot / certificate --- */
+/* --- Hackathon pages: frame each screenshot / certificate --- */
+/* Left edge lines up with the body text and the page title. */
 
 article img[src*="/assets/img/hackathons/"] {
   display: block;
-  margin: 0.75rem auto 1.1rem;
+  margin: 0.75rem 0 1.1rem;
   padding: 0.4rem;
   border: 1px solid var(--global-divider-color);
   border-radius: 6px;
   background: var(--global-bg-color);
-}
-
-/* Where supported, let the wrapping paragraph span the full width so the
-   image is centered on the page rather than within the 42rem text column. */
-article p:has(> img[src*="/assets/img/hackathons/"]) {
-  max-width: none;
-  text-align: center;
 }
 
 /* Compact centered variant for square-ish or poster-style images */
