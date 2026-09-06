@@ -46,9 +46,9 @@ nav: false
 
 <div class="photo-grid photo-grid-wide" markdown="0">
 
-{% include figure.liquid path="assets/img/group/2016-nc-dinner.jpg" class="img-fluid rounded z-depth-1" caption="Dinner with Prof. Russell Philbrick and Dr. Avi Lacser (with their wives) and group members, North Carolina (2016)." %}
+{% include figure.liquid path="assets/img/group/2016-nc-dinner.jpg" class="img-fluid rounded z-depth-1" caption="Dinner with Prof. Russell Philbrick and Dr. Avi Lacser (with their wives) and group members, Raleigh, North Carolina (2016)." %}
 
-{% include figure.liquid path="assets/img/group/2016-nc-duck-rabbit.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with Prof. Gilberto Fisch in North Carolina (2016)." %}
+{% include figure.liquid path="assets/img/group/2016-nc-duck-rabbit.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with Prof. Gilberto Fisch in Raleigh, North Carolina (2016)." %}
 
 </div>
 
