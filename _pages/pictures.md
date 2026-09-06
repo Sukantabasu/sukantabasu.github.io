@@ -66,7 +66,7 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
 
-{% include figure.liquid path="assets/img/group/2012-germany-train.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu (left), Chris Nunalee (center), and Prof. Bert Holtslag (right) on a train in Germany (2012)." %}
+{% include figure.liquid path="assets/img/group/2012-germany-train.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu (left), Chris Nunalee (center), and Prof. Bert Holtslag (right) on a train to Oldenburg, Germany (2012)." %}
 
 {% include figure.liquid path="assets/img/group/2012-boston.jpg" class="img-fluid rounded z-depth-1" caption="Group dinner during the AMS Symposium on Boundary Layers and Turbulence, Boston, Massachusetts (2012)." %}
 
