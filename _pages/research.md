@@ -43,7 +43,17 @@ downscaling of extreme winds, etc.
 Our renewable-energy research addresses inflow generation for turbine-load analysis,
 thunderstorm downbursts, wind-power ramps, Dunkelflaute events, offshore wind-resource
 assessment, and forecasting. We have contributed to the [_Grand Challenges in Wind Energy_](https://wes.copernicus.org/articles/collection15.html)
-and [IEA Wind Task 51](https://iea-wind.org/task51/).
+and [IEA Wind Task 51](https://iea-wind.org/task51/); for the latter, I co-organized a
+webinar on deep-learning weather prediction (January 2024).
+
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/t6H7diavQdg"
+    title="IEA Wind Task 51 — Deep Learning Weather Prediction Webinar (11 January 2024)"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ## Machine learning for the Earth sciences
 
