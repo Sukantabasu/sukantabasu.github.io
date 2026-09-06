@@ -9,39 +9,41 @@ by a GitHub Actions workflow.
 
 ### Navigation (each item is a page or a dropdown of pages)
 
-`publications` (all + 6 topic pages) · `research` · `group` (members + photos) · `grants` ·
-`teaching` · `software & data` (JAX-ALFA + Zenodo) · `hackathons` (overview + 9) ·
-`conferences` · `outreach` · `links` · `Olympics 2020` (overview + 17 daily forecasts) ·
-`cv` · `news`
+`about` · `cv` · `research` · `group` · `grants` · `publications` (all + 6 topic pages) ·
+`JAX-ALFA` (overview + external docs/source) · `teaching` · `outreach` ·
+`hackathons` (overview + 9) · `more` (`pictures`, `conferences`, `Olympics 2020`, `news`)
 
 Dropdown menus are defined by the `*-menu.md` pages (`dropdown: true` + a `children:` list).
 The child pages themselves have `nav: false` and their own `permalink`.
 
 ### Key files
 
-| Path | What it holds |
-| --- | --- |
-| `_pages/about.md` | Home page — bio, photo, links, latest news |
-| `_pages/*.md` | One Markdown file per page; front-matter `nav` / `nav_order` controls the menu |
-| `_news/*.md` | One file per news item; newest date shows first |
-| `_bibliography/papers.bib` | Every publication; edit this to add a paper |
-| `_data/cv.yml` | On-page CV summary (the PDF button points to `assets/pdf/cv.pdf`) |
-| `_data/coauthors.yml` | Group members whose names get highlighted in the publication list |
-| `_data/socials.yml` | ORCID / Scholar / GitHub / LinkedIn / Kaggle / email links |
-| `_config.yml` | Site-wide settings |
-| `CNAME` | Custom domain (`sukantabasu.com`) |
-| `assets/img/prof_pic.jpg` | Profile photo — **replace with a real headshot** |
-| `assets/video/olympics/` | Forecast animations (`.mp4`) and poster frames (`.jpg`) for the Olympics 2020 page |
-| `assets/img/group/` | Photos referenced from `/pictures/` |
-| `assets/pdf/cv.pdf` | The CV PDF |
-| `cv-latex/` | LaTeX source for the CV — **not published**, kept here for convenience |
+| Path                       | What it holds                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------- |
+| `_pages/about.md`          | Home page — bio, photo, links, latest news                                         |
+| `_pages/*.md`              | One Markdown file per page; front-matter `nav` / `nav_order` controls the menu     |
+| `_news/*.md`               | One file per news item; newest date shows first                                    |
+| `_bibliography/papers.bib` | Every publication; edit this to add a paper                                        |
+| `_data/cv.yml`             | On-page CV summary (the PDF button points to `assets/pdf/cv.pdf`)                  |
+| `_data/coauthors.yml`      | Group members whose names get highlighted in the publication list                  |
+| `_data/socials.yml`        | ORCID / Scholar / GitHub / LinkedIn / Kaggle / email links                         |
+| `_config.yml`              | Site-wide settings                                                                 |
+| `CNAME`                    | Custom domain (`sukantabasu.com`)                                                  |
+| `assets/img/prof_pic.jpg`  | Profile photo — **replace with a real headshot**                                   |
+| `assets/video/olympics/`   | Forecast animations (`.mp4`) and poster frames (`.jpg`) for the Olympics 2020 page |
+| `assets/img/group/`        | Photos referenced from `/pictures/`                                                |
+| `assets/pdf/cv.pdf`        | The CV PDF                                                                         |
+| `cv-latex/`                | LaTeX source for the CV — **not published**, kept here for convenience             |
 
 ## Common edits
 
 - **Add a publication:** append a BibTeX entry to `_bibliography/papers.bib`. Use
-  `abbr = {Wind}` (or `ABL`, `Optics`, `LES`, `ML`, `Mesoscale`, `Dynamics`) for the
-  topic badge, `selected = {true}` to feature it on the home page, and
-  `award = {true}` / `award_name = {...}` for a highlight.
+  `abbr = {Turbulence}` (or `Optics`, `LES`, `ML`, `NWP`, `Scaling`, `Renewable`,
+  `Chapter`, `MISC`; comma-separate for two badges) for the topic badge,
+  `selected = {true}` to feature it on the home page, and `award = {true}` /
+  `award_name = {...}` for a highlight. For a multi-topic paper, also mirror the
+  entry into the matching `_bibliography/<topic>.bib` file (cite key suffixed
+  `_<topic>`) so it appears on that topic page.
 - **Add a news item:** create `_news/YYYY-MM-DD-slug.md` (copy an existing one).
 - **Update the CV:** edit `_data/cv.yml` for the on-page summary, and replace
   `assets/pdf/cv.pdf` with the new PDF.
@@ -67,9 +69,9 @@ the result to the `gh-pages` branch.
 
 One-time GitHub setup:
 
-1. **Settings → Actions → General →** Workflow permissions: *Read and write permissions*.
+1. **Settings → Actions → General →** Workflow permissions: _Read and write permissions_.
 2. Push to `main`; wait for the **Deploy site** action to finish (Actions tab).
-3. **Settings → Pages →** Source: *Deploy from a branch*, Branch: `gh-pages` / `(root)`.
+3. **Settings → Pages →** Source: _Deploy from a branch_, Branch: `gh-pages` / `(root)`.
 
 ### Custom domain (`sukantabasu.com`, DNS on Cloudflare)
 
@@ -77,16 +79,16 @@ The `CNAME` file is already in the repo. In the Cloudflare dashboard for `sukant
 add these DNS records (all **DNS only / grey cloud**, not proxied — GitHub Pages serves its
 own TLS):
 
-| Type | Name | Value |
-| --- | --- | --- |
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
+| Type  | Name  | Value                   |
+| ----- | ----- | ----------------------- |
+| A     | `@`   | `185.199.108.153`       |
+| A     | `@`   | `185.199.109.153`       |
+| A     | `@`   | `185.199.110.153`       |
+| A     | `@`   | `185.199.111.153`       |
 | CNAME | `www` | `sukantabasu.github.io` |
 
 Then in **Settings → Pages → Custom domain**, confirm `sukantabasu.com` and enable
-*Enforce HTTPS* once the certificate is issued.
+_Enforce HTTPS_ once the certificate is issued.
 
 ## Credits
 

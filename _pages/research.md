@@ -15,7 +15,7 @@ nav_order: 3
 ## Atmospheric boundary-layer processes
 
 Our research examines the structure and scaling of turbulence in canonical
-atmospheric boundary layers. Topics include similarity theory, the very stable regime, 
+atmospheric boundary layers. Topics include similarity theory, the very stable regime,
 low-level jets, boundary-layer height, and the dissipation rates of velocity and temperature fluctuations.
 
 ## Atmospheric optics
