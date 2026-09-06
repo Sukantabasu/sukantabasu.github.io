@@ -6,6 +6,8 @@ description: Applied machine-learning and forecasting competitions I have entere
 nav: false
 ---
 
+<div class="hackathon-tables" markdown="1">
+
 ## Competitions and hackathons
 
 | Year | Competition                                                                    | Result                          |
@@ -25,7 +27,7 @@ nav: false
 
 ## Kaggle competitions
 
-| Year | Competition                                           | Rank        |
+| Year | Competition                                           | Result      |
 | ---- | ----------------------------------------------------- | ----------- |
 | 2026 | Playground Series S6E2 — predicting heart disease     | 426 / 4370  |
 | 2025 | Yale / UNC-CH — geophysical waveform inversion        | 1228 / 1365 |
@@ -38,5 +40,7 @@ nav: false
 | 2023 | Playground Series S3E5 — ordinal tabular wine quality | 608 / 901   |
 | 2023 | Playground Series S3E1 — tabular California housing   | 154 / 689   |
 | 2023 | GoDaddy — microbusiness density forecasting           | 2013 / 3547 |
+
+</div>
 
 See also my [Kaggle profile](https://www.kaggle.com/sukantabasu).

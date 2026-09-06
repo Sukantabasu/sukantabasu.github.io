@@ -623,3 +623,20 @@ td code,
 .teaching-tables td:last-child {
   width: 35%;
 }
+
+/* --- Hackathons page: align the "Result" column across both tables ------ */
+
+.hackathon-tables table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.hackathon-tables th:first-child,
+.hackathon-tables td:first-child {
+  width: 8%;
+}
+
+.hackathon-tables th:last-child,
+.hackathon-tables td:last-child {
+  width: 30%;
+}
