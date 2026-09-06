@@ -5,7 +5,9 @@ title: IEEE Hybrid Energy Forecasting & Trading (2024)
 nav: false
 ---
 
-<img src="/assets/img/hackathons/ieee-2024-leaderboard.png" alt="Hybrid Energy Forecasting and Trading Competition final standings — team Sukantabasu at combined rank 6" style="max-width:720px;width:100%;height:auto;" />
+<div class="hackathon-media" markdown="0">
+  <img src="/assets/img/hackathons/ieee-2024-leaderboard.png" alt="Hybrid Energy Forecasting and Trading Competition final standings — team Sukantabasu at combined rank 6" style="max-width:720px;width:100%;height:auto;" />
+</div>
 
 Overall rank **6th** — 7th in the forecasting track and 5th in the trading track. I built an
 ML-based framework for day-ahead energy forecasting and trading.

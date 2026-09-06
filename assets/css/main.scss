@@ -189,10 +189,19 @@ figure.page-photo.page-photo-text {
 }
 
 /* --- Hackathon pages: frame each screenshot / certificate --- */
-/* Left edge lines up with the body text and the page title. */
+/* The media column matches the 42rem body-text measure, and each image is
+   centered within it — so a 600px shot is only slightly indented, narrower
+   certificates sit centered, and everything stays full-width on mobile. */
 
-article img[src*="/assets/img/hackathons/"] {
-  display: block;
+.hackathon-media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(100%, 42rem);
+}
+
+.hackathon-media img {
+  box-sizing: border-box;
   margin: 0.75rem 0 1.1rem;
   padding: 0.4rem;
   border: 1px solid var(--global-divider-color);

@@ -5,7 +5,9 @@ title: Solafune — Aerosol Optical Depth (2024)
 nav: false
 ---
 
-<img src="/assets/img/hackathons/solafune-aod-2024-certificate.jpg" alt="Solafune Aerosol Optical Depth Estimation — bronze-star certificate, ranked 25th, awarded to team sukantabasu" style="max-width:600px;width:100%;height:auto;" />
+<div class="hackathon-media" markdown="0">
+  <img src="/assets/img/hackathons/solafune-aod-2024-certificate.jpg" alt="Solafune Aerosol Optical Depth Estimation — bronze-star certificate, ranked 25th, awarded to team sukantabasu" style="max-width:600px;width:100%;height:auto;" />
+</div>
 
 I ranked **25th of 307** participants and won a bronze star. I developed a deep-learning
 approach for estimating aerosol optical depth (AOD) from satellite imagery; the test-set

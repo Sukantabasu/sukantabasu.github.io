@@ -5,7 +5,9 @@ title: EEM Wind Power Forecasting (2020)
 nav: false
 ---
 
-<img src="/assets/img/hackathons/eem-2020-winners.jpg" alt="EEM20 Forecasting Competition winners announcement — Team Turbulence (TU Delft) in third place" style="max-width:600px;width:100%;height:auto;" />
+<div class="hackathon-media" markdown="0">
+  <img src="/assets/img/hackathons/eem-2020-winners.jpg" alt="EEM20 Forecasting Competition winners announcement — Team Turbulence (TU Delft) in third place" style="max-width:600px;width:100%;height:auto;" />
+</div>
 
 The 17th International Conference on the European Energy Market (EEM20) ran a regional-scale
 wind-power forecasting competition. My team ranked **3rd**.

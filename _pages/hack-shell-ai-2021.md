@@ -5,7 +5,9 @@ title: Shell.ai Hackathon (2021)
 nav: false
 ---
 
-<img src="/assets/img/hackathons/shell-ai-2021-certificate.jpg" alt="Shell.ai Hackathon for Sustainable and Affordable Energy 2021 — Certificate of Achievement, first position" style="max-width:600px;width:100%;height:auto;" />
+<div class="hackathon-media" markdown="0">
+  <img src="/assets/img/hackathons/shell-ai-2021-certificate.jpg" alt="Shell.ai Hackathon for Sustainable and Affordable Energy 2021 — Certificate of Achievement, first position" style="max-width:600px;width:100%;height:auto;" />
+</div>
 
 I ranked **1st in the global competition** with a novel ML-based solar-energy nowcasting
 framework.

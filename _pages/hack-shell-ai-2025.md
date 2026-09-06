@@ -5,7 +5,9 @@ title: Shell.ai Hackathon — Fuel-Blend Properties (2025)
 nav: false
 ---
 
-<img src="/assets/img/hackathons/shell-ai-2025-alchemist-logo.png" alt="ALCHEMIST — Turning Fuel Data into Gold" style="max-width:220px;width:100%;height:auto;" />
+<div class="hackathon-media" markdown="0">
+  <img src="/assets/img/hackathons/shell-ai-2025-alchemist-logo.png" alt="ALCHEMIST — Turning Fuel Data into Gold" style="max-width:220px;width:100%;height:auto;" />
+</div>
 
 The 2025 Shell.ai Hackathon asked participants to predict ten properties of a fuel
 blend (`BlendProperty1`–`BlendProperty10`) from the volume fractions and individual
