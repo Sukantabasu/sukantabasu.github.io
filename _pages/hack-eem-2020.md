@@ -13,4 +13,6 @@ predictions at regional scales: post-processing operational weather forecasts wi
 neural network," IEEE, doi:10.1109/EEM49802.2020.9221979.
 Code and data: <https://zenodo.org/record/3987742> · [3rd-prize certificate (PDF)](/assets/pdf/eem20-3rd-prize-certificate.pdf)
 
+<img src="/assets/img/hackathons/eem-2020-winners.jpg" alt="EEM20 Forecasting Competition winners announcement — Team Turbulence (TU Delft) in third place" style="max-width:600px;width:100%;height:auto;" />
+
 <p><a href="/hackathons/">&larr; All hackathons</a></p>
