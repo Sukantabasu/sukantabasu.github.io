@@ -22,6 +22,14 @@ nav: false
 
 </div>
 
+<div class="photo-grid" markdown="0">
+
+{% include figure.liquid path="assets/img/group/2023-san-antonio.jpg" class="img-fluid rounded z-depth-1" caption="San Antonio, Texas (2023)." %}
+
+{% include figure.liquid path="assets/img/group/2022-itbms-keynote.jpg" class="img-fluid rounded z-depth-1" caption="Keynote lecture at the ITBMS conference, Bagnères-de-Bigorre, France (2022)." %}
+
+</div>
+
 <div class="photo-portrait" markdown="0">
 
 {% include figure.liquid path="assets/img/group/2022-torque.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu on a panel at the TORQUE 2022 conference, Delft, the Netherlands (photo: Blauw Helder)." %}
@@ -32,6 +40,16 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2019-cagliari-wrf.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with attendees of his short course &ldquo;WRF modelling for wind energy applications,&rdquo; which he taught as a Visiting Professor at the Università degli Studi di Cagliari, Italy, at the invitation of Prof. Maria Grazia Badas (2019)." %}
 
+{% include figure.liquid path="assets/img/group/2019-ettlingen.jpg" class="img-fluid rounded z-depth-1" caption="Ettlingen, Germany (2019)." %}
+
+</div>
+
+<div class="photo-grid photo-grid-wide" markdown="0">
+
+{% include figure.liquid path="assets/img/group/2016-nc-dinner.jpg" class="img-fluid rounded z-depth-1" caption="Group dinner, North Carolina (2016)." %}
+
+{% include figure.liquid path="assets/img/group/2016-nc-duck-rabbit.jpg" class="img-fluid rounded z-depth-1" caption="North Carolina (2016)." %}
+
 </div>
 
 <div class="photo-grid" markdown="0">
@@ -40,17 +58,23 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2015-miami-thermal.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015) — thermal-camera view of the same moment." %}
 
+{% include figure.liquid path="assets/img/group/ncsu-group.jpg" class="img-fluid rounded z-depth-1" caption="Research group at North Carolina State University." %}
+
 {% include figure.liquid path="assets/img/group/2014-dayton.jpg" class="img-fluid rounded z-depth-1" caption="Group visit to Dayton, Ohio (2014)." %}
 
 {% include figure.liquid path="assets/img/group/2013-beaufort-fieldwork.jpg" class="img-fluid rounded z-depth-1" caption="Praju KV (left) and Ping He (right) during field work near Beaufort, North Carolina (2013)." %}
 
 {% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
 
+{% include figure.liquid path="assets/img/group/2012-germany-train.jpg" class="img-fluid rounded z-depth-1" caption="En route by train, Germany (2012)." %}
+
 {% include figure.liquid path="assets/img/group/2012-boston.jpg" class="img-fluid rounded z-depth-1" caption="Group dinner during the AMS Symposium on Boundary Layers and Turbulence, Boston, Massachusetts (2012)." %}
 
 {% include figure.liquid path="assets/img/group/2012-ecofys.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (left) and Yao Wang (right) at the Ecofys wind farm, the Netherlands (2012)." %}
 
 {% include figure.liquid path="assets/img/group/2012-beijing.jpg" class="img-fluid rounded z-depth-1" caption="Yao Wang (left) and Sukanta Basu (right) in Beijing, China (2012)." %}
+
+{% include figure.liquid path="assets/img/group/2011-nc-patio.jpg" class="img-fluid rounded z-depth-1" caption="North Carolina (2011)." %}
 
 {% include figure.liquid path="assets/img/group/2011-boulder.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (standing left), Yao Wang (standing right), and Heather Richardson (sitting) near Boulder, Colorado (2011)." %}
 

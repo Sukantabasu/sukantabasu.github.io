@@ -32,7 +32,7 @@ The child pages themselves have `nav: false` and their own `permalink`.
 | `CNAME` | Custom domain (`sukantabasu.com`) |
 | `assets/img/prof_pic.jpg` | Profile photo — **replace with a real headshot** |
 | `assets/img/olympics/` | Drop `2021-07-15.png` … `2021-08-01.png` here for the Olympics pages |
-| `assets/img/group/` | Group photos referenced from `/group/photos/` |
+| `assets/img/group/` | Photos referenced from `/pictures/` |
 | `assets/pdf/cv.pdf` | The CV PDF |
 | `cv-latex/` | LaTeX source for the CV — **not published**, kept here for convenience |
 

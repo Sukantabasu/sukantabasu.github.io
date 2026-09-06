@@ -17,8 +17,6 @@ nav_order: 4
 
 **M.S. students** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
 
-See also [pictures](/pictures/) over the years.
-
 ---
 
 ## Former post-doctoral associates (alphabetical by last name)
