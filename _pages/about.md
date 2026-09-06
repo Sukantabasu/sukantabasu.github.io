@@ -36,7 +36,7 @@ Before joining the University at Albany, I was a tenured Associate Professor at 
   <div><div class="num">80+</div><div class="lbl">Journal articles</div></div>
   <div><div class="num">25+</div><div class="lbl">Funded projects</div></div>
   <div><div class="num">40+</div><div class="lbl">Students &amp; postdocs</div></div>
-  <div><div class="num">15+</div><div class="lbl">ML competitions</div></div>
+  <div><div class="num">30+</div><div class="lbl">ML competitions</div></div>
 </div>
 
 Over the past two decades, my research group and collaborators have used a diverse suite of physics-based modeling techniques (e.g., direct numerical simulation, large-eddy simulation, and mesoscale modeling) and developed associated parameterizations to deepen our understanding of atmospheric turbulence. More recently, we have substantially expanded our modeling portfolio by incorporating modern artificial intelligence (AI) and machine learning (ML) methods, including deep learning. Beyond conventional weather forecasting, our findings have direct implications for the design and operation of next-generation utility-scale wind turbines, high-energy laser systems, free-space optical communication networks, and other technologies influenced by atmospheric turbulence.
