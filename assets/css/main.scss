@@ -200,6 +200,27 @@ article img[src*="/assets/img/hackathons/"] {
   background: var(--global-bg-color);
 }
 
+/* --- Responsive 16:9 video / YouTube embed --------------------------- */
+
+.video-embed {
+  position: relative;
+  width: 100%;
+  max-width: 42rem;
+  aspect-ratio: 16 / 9;
+  margin: 1rem 0 1.5rem;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #000;
+}
+
+.video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 /* Compact centered variant for square-ish or poster-style images */
 figure.page-photo.page-photo-narrow {
   max-width: 30rem;

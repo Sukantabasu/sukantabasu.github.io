@@ -12,4 +12,13 @@ framework.
 
 Competition: <https://www.shell.com/what-we-do/digitalisation/collaboration-and-open-innovation/shell-ai-hackathon-for-sustainable-and-affordable-energy-past-editions.html>
 
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/89CS9djzxxg"
+    title="Shell.ai Hackathon 2021 — solar-energy nowcasting"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+
 <p><a href="/hackathons/">&larr; All hackathons</a></p>
