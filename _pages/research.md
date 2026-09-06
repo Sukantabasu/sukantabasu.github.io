@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+<figure class="page-photo page-photo-text">
+  <img src="/assets/img/research/acadia-island-clouds.jpg" alt="Clouds forming over the islands of Frenchman Bay, seen from Cadillac Mountain" />
+  <figcaption>Clouds forming over the islands of Frenchman Bay, seen from Cadillac Mountain, Acadia National Park, Maine. Photograph by Dr. Avi Lacser.</figcaption>
+</figure>
+
 ## Atmospheric boundary-layer processes
 
 Our research examines the structure and scaling of turbulence in canonical
@@ -46,3 +51,8 @@ We develop machine learning methods for parameterization, downscaling, nowcastin
 data-driven surrogate modeling. These methods (e.g., gradient boosting machines,
 convolutional autoencoders, neural operators, and foundation models) are applied to optical
 turbulence, wind gusts, wind power, and air quality.
+
+<figure class="page-photo page-photo-text">
+  <img src="/assets/img/research/reese-scintillometer.jpg" alt="A scintillometer deployed in a field at sunset" />
+  <figcaption>A scintillometer deployed at the Reese Technology Center, Lubbock, Texas. Photograph by Sukanta Basu.</figcaption>
+</figure>

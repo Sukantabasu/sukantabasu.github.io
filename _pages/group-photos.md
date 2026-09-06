@@ -6,15 +6,29 @@ description: A few pictures over the years.
 nav: false
 ---
 
-<div class="photo-grid" markdown="0">
+<div class="photo-row-eq" markdown="0">
 
 {% include figure.liquid path="assets/img/group/2025-li-defense.jpg" class="img-fluid rounded z-depth-1" caption="Ph.D. dissertation defense of Bowen Li, TU Delft (2025)." %}
 
 {% include figure.liquid path="assets/img/group/2024-cheneka-defense.jpg" class="img-fluid rounded z-depth-1" caption="Ph.D. dissertation defense of Bedassa Cheneka, TU Delft (2024)." %}
 
-{% include figure.liquid path="assets/img/group/2024-defenses-group.jpg" class="img-fluid rounded z-depth-1" caption="Ph.D. dissertation defenses of Bowen Li (2025) and Bedassa Cheneka (2024)." %}
+</div>
+
+<div class="photo-grid photo-grid-wide" markdown="0">
+
+{% include figure.liquid path="assets/img/group/2024-cheneka-committee.jpg" class="img-fluid rounded z-depth-1" caption="Bedassa Cheneka with the doctoral committee after his Ph.D. defense, TU Delft (2024)." %}
 
 {% include figure.liquid path="assets/img/group/2024-albany-selfie.jpg" class="img-fluid rounded z-depth-1" caption="Harish Baki, Jaya Singh, Deepak Kumar, and Max Pierzyna in Albany, NY (2024)." %}
+
+</div>
+
+<div class="photo-portrait" markdown="0">
+
+{% include figure.liquid path="assets/img/group/2022-torque.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu on a panel at the TORQUE 2022 conference, Delft, the Netherlands (photo: Blauw Helder)." %}
+
+</div>
+
+<div class="photo-grid" markdown="0">
 
 {% include figure.liquid path="assets/img/group/2011-boulder.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (standing left), Yao Wang (standing right), and Heather Richardson (sitting) near Boulder, Colorado (2011)." %}
 
@@ -32,10 +46,10 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2007-stockholm.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu (left) and Fred Bosveld (right) in Stockholm, Sweden (2007)." %}
 
-{% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
-
 {% include figure.liquid path="assets/img/group/2015-miami.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015)." %}
 
 {% include figure.liquid path="assets/img/group/2015-miami-thermal.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015) — thermal-camera view of the same moment." %}
+
+{% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
 
 </div>
