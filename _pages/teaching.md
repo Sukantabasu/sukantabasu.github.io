@@ -6,6 +6,11 @@ nav: true
 nav_order: 8
 ---
 
+<figure class="page-photo">
+  <img src="/assets/img/teaching/2018-teaching-award.jpg" alt="Sukanta Basu with colleagues holding teaching-award certificates" />
+  <figcaption>Teaching Award: MSc Track in Geoscience and Remote Sensing (2018).</figcaption>
+</figure>
+
 <div class="teaching-tables" markdown="1">
 
 ## University at Albany — 2024–present
