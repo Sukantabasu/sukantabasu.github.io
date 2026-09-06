@@ -26,7 +26,7 @@ nav: false
 
 {% include figure.liquid path="assets/img/group/2023-san-antonio.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu with Prof. Lance Manuel in San Antonio, Texas (2023)." %}
 
-{% include figure.liquid path="assets/img/group/2022-itbms-keynote.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu delivering a keynote lecture at the ITBMS conference, with Dr. Marie-Thérèse Velluet, Bagnères-de-Bigorre, France (2022)." %}
+{% include figure.liquid path="assets/img/group/2022-itbms-keynote.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu delivering a keynote lecture at the ITBMS conference, moderated by Dr. Marie-Thérèse Velluet, Bagnères-de-Bigorre, France (2022)." %}
 
 </div>
 
