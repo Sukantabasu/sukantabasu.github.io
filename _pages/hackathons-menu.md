@@ -10,6 +10,8 @@ children:
   - title: divider
   - title: NASA & DNV UQ Challenge (2025)
     permalink: /hackathons/nasa-dnv-uq-2025/
+  - title: Shell.ai Hackathon — Fuel-Blend Properties (2025)
+    permalink: /hackathons/shell-ai-2025/
   - title: Solafune — Aerosol Optical Depth (2024)
     permalink: /hackathons/solafune-aod-2024/
   - title: IEEE Hybrid Energy Forecasting & Trading (2024)

@@ -9,7 +9,7 @@ nav: false
 | Year | Competition                                                                    | Result                              |
 | ---- | ------------------------------------------------------------------------------ | ----------------------------------- |
 | 2025 | [NASA & DNV UQ Challenge](/hackathons/nasa-dnv-uq-2025/)                       | 5th of 40                           |
-| 2025 | Shell.ai Hackathon — fuel-blend properties                                     | Level-2 finalist (~25 of ~7000)     |
+| 2025 | [Shell.ai Hackathon — fuel-blend properties](/hackathons/shell-ai-2025/)       | Level-2 finalist (~25 of ~7000)     |
 | 2024 | [Solafune — aerosol optical depth](/hackathons/solafune-aod-2024/)             | 25th of 307 (bronze)                |
 | 2024 | [IEEE Hybrid Energy Forecasting & Trading](/hackathons/ieee-forecasting-2024/) | 6th overall                         |
 | 2024 | Kaggle — LEAP / ClimSim (atmospheric physics with AI)                          | participated                        |
