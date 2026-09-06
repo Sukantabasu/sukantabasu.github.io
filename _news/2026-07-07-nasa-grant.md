@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded a **NASA** grant (`$302K`) for _"Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management."_
+Awarded a **NASA** grant (`$302K` of a `$500K` collaborative award) for _"Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management."_

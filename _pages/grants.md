@@ -13,7 +13,7 @@ nav_order: 5
 
 | Period  | Agency                                                 | Project                                                                                           | Role  | Amount                  |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- | ----------------------- |
-| 2026–28 | NASA                                                   | Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management | PI    | `$302K`                 |
+| 2026–28 | NASA                                                   | Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management | PI    | `$302K (of $500K)`      |
 | 2026–27 | NSF IUCRC (WISER)                                      | North American outage prediction model                                                            | Co-PI | `$38K (of $225K)`       |
 | 2025–28 | NYS Dept. of Financial Services                        | Climate exposure and financial impacts at the census-tract level in New York State                | PI    | `$1.6M`                 |
 | 2025–26 | NSF IUCRC (WISER)                                      | Deep learning-based nowcasting of damaging winds (Phase II)                                       | PI    | `$50K`                  |
