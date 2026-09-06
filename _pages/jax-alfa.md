@@ -6,6 +6,8 @@ description: A JAX-based large-eddy simulation framework for atmospheric boundar
 nav: false
 ---
 
+<img src="/assets/img/jax-alfa-logo.png" alt="JAX-ALFA logo — a stylised alpha with vortex swirls" class="jax-alfa-logo" />
+
 **JAX-ALFA** — _Atmospheric LES For All_ — is a [JAX](https://jax.readthedocs.io/)-based
 large-eddy simulation (LES) framework for atmospheric boundary-layer flows, which I developed.
 
