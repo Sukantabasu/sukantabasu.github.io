@@ -30,26 +30,26 @@ nav: false
 
 <div class="photo-grid" markdown="0">
 
-{% include figure.liquid path="assets/img/group/2011-boulder.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (standing left), Yao Wang (standing right), and Heather Richardson (sitting) near Boulder, Colorado (2011)." %}
+{% include figure.liquid path="assets/img/group/2015-miami.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015)." %}
 
-{% include figure.liquid path="assets/img/group/2012-boston.jpg" class="img-fluid rounded z-depth-1" caption="Group dinner during the AMS Symposium on Boundary Layers and Turbulence, Boston, Massachusetts (2012)." %}
-
-{% include figure.liquid path="assets/img/group/2012-ecofys.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (left) and Yao Wang (right) at the Ecofys wind farm, the Netherlands (2012)." %}
+{% include figure.liquid path="assets/img/group/2015-miami-thermal.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015) — thermal-camera view of the same moment." %}
 
 {% include figure.liquid path="assets/img/group/2014-dayton.jpg" class="img-fluid rounded z-depth-1" caption="Group visit to Dayton, Ohio (2014)." %}
 
 {% include figure.liquid path="assets/img/group/2013-beaufort-fieldwork.jpg" class="img-fluid rounded z-depth-1" caption="Praju KV (left) and Ping He (right) during field work near Beaufort, North Carolina (2013)." %}
 
-{% include figure.liquid path="assets/img/group/2011-umass-blade.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (left) and Praju KV (right) at the UMass Wind Blade Test Facility (2011)." %}
+{% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
+
+{% include figure.liquid path="assets/img/group/2012-boston.jpg" class="img-fluid rounded z-depth-1" caption="Group dinner during the AMS Symposium on Boundary Layers and Turbulence, Boston, Massachusetts (2012)." %}
+
+{% include figure.liquid path="assets/img/group/2012-ecofys.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (left) and Yao Wang (right) at the Ecofys wind farm, the Netherlands (2012)." %}
 
 {% include figure.liquid path="assets/img/group/2012-beijing.jpg" class="img-fluid rounded z-depth-1" caption="Yao Wang (left) and Sukanta Basu (right) in Beijing, China (2012)." %}
 
+{% include figure.liquid path="assets/img/group/2011-boulder.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (standing left), Yao Wang (standing right), and Heather Richardson (sitting) near Boulder, Colorado (2011)." %}
+
+{% include figure.liquid path="assets/img/group/2011-umass-blade.jpg" class="img-fluid rounded z-depth-1" caption="Chris Nunalee (left) and Praju KV (right) at the UMass Wind Blade Test Facility (2011)." %}
+
 {% include figure.liquid path="assets/img/group/2007-stockholm.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu (left) and Fred Bosveld (right) in Stockholm, Sweden (2007)." %}
-
-{% include figure.liquid path="assets/img/group/2015-miami.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015)." %}
-
-{% include figure.liquid path="assets/img/group/2015-miami-thermal.jpg" class="img-fluid rounded z-depth-1" caption="Thomas Weyrauch (left) and Sukanta Basu (right) in Miami, Florida (2015) — thermal-camera view of the same moment." %}
-
-{% include figure.liquid path="assets/img/group/2013-brazil.jpg" class="img-fluid rounded z-depth-1" caption="Sukanta Basu in São José dos Campos, Brazil (2013)." %}
 
 </div>
