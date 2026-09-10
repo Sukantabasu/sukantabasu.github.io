@@ -7,9 +7,14 @@ nav: true
 nav_order: 5
 ---
 
-<figure class="page-photo page-photo-narrow">
-  <img src="/assets/img/grants/wiser-2025-iab.jpg" alt="Sukanta Basu, Jeff Freedman, Matthew Reuter, and Richard Perez at the WISER 2025 Industry Advisory Board meeting" />
-</figure>
+<div class="page-photo-pair">
+  <figure>
+    <img src="/assets/img/grants/wiser-2025-iab.jpg" alt="Sukanta Basu, Jeff Freedman, Matthew Reuter, and Richard Perez at the WISER 2025 Industry Advisory Board meeting" />
+  </figure>
+  <figure>
+    <img src="/assets/img/grants/nasa-outage-2026.jpg" alt="UAlbany news story: researchers partner with NASA to build an AI tool for predicting power outages, with Sukanta Basu, Xin Li, and June Wang" />
+  </figure>
+</div>
 
 | Period  | Agency                                                 | Project                                                                                           | Role  | Amount                  |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- | ----------------------- |
