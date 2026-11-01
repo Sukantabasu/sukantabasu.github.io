@@ -11,11 +11,11 @@ nav_order: 4
 
 At the University at Albany unless noted.
 
-**Research scientists** — Dr. [Mukul Tewari](https://www.linkedin.com/in/mukul-tewari-5565a341/) · Dr. [Chau Lam (Chris) Yu](https://www.linkedin.com/in/chau-lam-chris-yu-352aa9147/)
+**Research scientist** — Dr. [Chau Lam (Chris) Yu](https://www.linkedin.com/in/chau-lam-chris-yu-352aa9147/)
 
 **Post-doctoral research associate** — Dr. [Harish Baki](https://harishbaki.github.io/)
 
-**Ph.D. students** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/) · [Maximilian Pierzyna](https://mpier.eu/) (TU Delft)
+**Ph.D. student** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/)
 
 **M.S. students** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
 
@@ -40,6 +40,7 @@ At the University at Albany unless noted.
 | [Pat Hawbecker](https://www.linkedin.com/in/patrick-hawbecker/)                  | The influence of ambient stability on downburst winds                                                                  | Senior Data Scientist, Sunairio                                                                        |
 | V. P. Kiliyanpilakkil                                                            | Scaling characteristics of mesoscale wind fields in the lower atmospheric boundary layer: implications for wind energy | —                                                                                                      |
 | [Bowen Li](https://www.linkedin.com/in/bowen-li-00258b223/)                      | Dunkelflaute events — characterization, prediction and future projection                                               | —                                                                                                      |
+| [Maximilian (Max) Pierzyna](https://mpier.eu/) | Machine learning parameterizations of atmospheric optical turbulence for free-space optical communication | — |
 | [Christopher Nunalee](https://www.linkedin.com/in/christopher-nunalee-38547b21/) | A dynamical characterization of atmospheric von Kármán vortex streets induced by bluff topography                      | Vice President, NextEra Analytics, NextEra Energy                                                      |
 | [Aaron Sims](https://www.linkedin.com/in/aaronpsims/)                            | Mesoscale interaction between the sea-breeze circulation and Sandhills convection (co-advised with Sethu Raman)        | Senior Atmospheric Scientist, Blue Storm Associates, Inc. dba PEMDAS Technologies & Innovations        |
 | [Brandon Storm](https://www.linkedin.com/in/brandon-storm-4300a01b/)             | Modeling of low-level jets over the Great Plains: implications for wind energy                                         | Wind Power Business Line Director, 1898 & Co.                                                          |
