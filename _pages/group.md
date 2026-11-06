@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Current members (alphabetical by last name)
+## Current members
 
 At the University at Albany unless noted.
 
@@ -17,7 +17,7 @@ At the University at Albany unless noted.
 
 **Ph.D. student** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/)
 
-**M.S. students** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
+**M.S. student** — [Emmanuel Kipchirchir](https://www.linkedin.com/in/emmanuel-kipchirchir-7b2360199/)
 
 ---
 
