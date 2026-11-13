@@ -103,6 +103,7 @@ cv:
         date: 2005
 
     Selected Grants:
+      - bullet: "**Disentangling Meteorological and Topographical Controls on Wind Gust Characteristics Using Large-Eddy Simulations and Physics-informed Machine Learning** — U.S. Department of Energy. PI. `$599K` (2026–2029)."
       - bullet: "**Coupling NASA Earth Observation and Weather-Climate Foundation Models for Power Outage Management** — NASA. PI. `$302K of $500K` (2026–2028)."
       - bullet: "**Assessing climate exposure and financial impacts at the census-tract level in New York State** — NYS Department of Financial Services. PI. `$1.6M` (2025–2028)."
       - bullet: "**Deep learning-based nowcasting of damaging winds (Phases I & II)** — NSF IUCRC (WISER). PI. `$100K` (2024–2026)."

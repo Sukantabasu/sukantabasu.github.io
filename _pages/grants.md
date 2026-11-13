@@ -18,6 +18,7 @@ nav_order: 5
 
 | Period  | Agency                                                 | Project                                                                                           | Role  | Amount                  |
 | ------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- | ----------------------- |
+| 2026–29 | U.S. Dept. of Energy                                   | Disentangling meteorological and topographical controls on wind gust characteristics using LES and physics-informed ML | PI    | `$599K`                 |
 | 2026–28 | NASA                                                   | Coupling NASA Earth observation and weather-climate foundation models for power outage management | PI    | `$302K (of $500K)`      |
 | 2026–27 | NSF IUCRC (WISER)                                      | North American outage prediction model                                                            | Co-PI | `$38K (of $225K)`       |
 | 2025–28 | NYS Dept. of Financial Services                        | Climate exposure and financial impacts at the census-tract level in New York State                | PI    | `$1.6M`                 |
