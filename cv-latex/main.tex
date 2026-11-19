@@ -22,9 +22,13 @@
 
 %---Use the following to make the publication numbering in reverse chronological order--- (Sukanta)
 % Count total number of entries in each refsection
+% Count each entry key only once: newer biblatex runs \AtDataInput
+% more than once per entry, which otherwise doubles the numbering.
 \AtDataInput{%
-  \csnumgdef{entrycount:\therefsection}{%
-    \csuse{entrycount:\therefsection}+1}}
+  \ifcsdef{cvseen:\therefsection:\thefield{entrykey}}{}{%
+    \csgdef{cvseen:\therefsection:\thefield{entrykey}}{}%
+    \csnumgdef{entrycount:\therefsection}{%
+      \csuse{entrycount:\therefsection}+1}}}
 
 % Print the labelnumber as the total number of entries in the
 % current refsection, minus the actual labelnumber, plus one
@@ -45,9 +49,9 @@
 {{\Large Professor of Empire Innovation}\\
 University at Albany\\ 
 Albany, USA\\
-Tel:  +1 518-437-8633\\
+Tel:  +1 518-350-3009\\
 E-mail: sbasu@albany.edu\\
-https://sites.google.com/view/sukantabasu/ 
+https://sukantabasu.com 
 }
 
 % \headingphoto{Name Surname}{
