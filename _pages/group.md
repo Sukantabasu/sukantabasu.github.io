@@ -13,7 +13,7 @@ At the University at Albany unless noted.
 
 **Research scientist** — Dr. [Chau Lam (Chris) Yu](https://www.linkedin.com/in/chau-lam-chris-yu-352aa9147/)
 
-**Post-doctoral research associate** — Dr. [Harish Baki](https://harishbaki.github.io/)
+**Post-doctoral research associate** — Dr. [Kachinga Silwimba](https://www.linkedin.com/in/kachinga-silwimba/)
 
 **Ph.D. student** — [Ekaterina Belash](https://www.linkedin.com/in/ekaterina-belash-95a34179/)
 
@@ -25,6 +25,7 @@ At the University at Albany unless noted.
 
 | Name                                                                                                    | Current position                                                 |
 | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Dr. [Harish Baki](https://harishbaki.github.io/)                                                       | Research Assistant Professor, New Mexico State University, USA   |
 | Dr. [Vikas Dwivedi](https://www.linkedin.com/in/vikas-dwivedi-795606244/)                               | Postdoctoral Researcher, INSA Lyon, France                       |
 | Dr. [Ping He](https://www.linkedin.com/in/ping-he-0ab1a728/)                                            | Assistant Professor, Iowa State University, USA                  |
 | Dr. [Serkan Kartal](https://www.linkedin.com/in/serkan-kartal-39063b14a/)                               | Associate Professor, Çukurova University, Turkey                 |
